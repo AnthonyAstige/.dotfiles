@@ -1,0 +1,12 @@
+snippet warn "console.warn"
+console.warn($1);
+endsnippet
+
+snippet debug "debug with linting disabled"
+debugger // eslint-disable-line no-debugger
+endsnippet
+
+snippet debugarrow "debug an arrow function -- insert just before"
+(()=>{debugger // eslint-disable-line no-debugger
+})() || 
+endsnippet
