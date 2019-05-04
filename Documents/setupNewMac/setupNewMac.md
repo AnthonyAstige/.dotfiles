@@ -36,6 +36,8 @@ Misc
             >> Disable Speed
             >> Disable Accelleration
 
+    # [Rouge](https://github.com/jneen/rouge)
+        git clone https://github.com/jneen/rouge ~/.rouge
 
 System Preferences
 	Keyboard
