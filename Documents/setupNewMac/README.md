@@ -2,6 +2,9 @@ This .dotfiles repository
 	git clone git@github.com:AnthonyAstige/.dotfiles.git ~/.dotfiles
 	# If really needed: git clone https://github.com/AnthonyAstige/.dotfiles.git ~/.dotfiles
 
+Licences
+    See ~/Documents/setupNewMacLicences (copy them over manually as not placed in public repository)
+
 Misc
 	# [Brew](https://brew.sh/)
 	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
