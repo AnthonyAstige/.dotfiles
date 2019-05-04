@@ -210,13 +210,6 @@ set -o vi
 # Loading for ubuntu works as single call here
 source ~/.fzf.bash
 
-source ~/.compartime.bash
-
-# Brightidea: If main folder exists, go into it as that's where I usually work
-if [ -d "$HOME/main" ] ; then
-    cd "$HOME/main"
-fi
-
 # Fix npm run watch problems https://stackoverflow.com/a/48895989
 export NODE_OPTIONS=--max_old_space_size=4096
 
