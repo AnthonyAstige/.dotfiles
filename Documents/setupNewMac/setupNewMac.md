@@ -25,6 +25,8 @@ Misc
     # iTerm2: Solarized Dark
         iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dark
 
+    # [RIPGrep](https://github.com/BurntSushi/ripgrep#installation)
+
     # [USB Overdrive](http://www.usboverdrive.com/USBOverdrive/Download.html)
         Install from file in this folder or download above
         Any Mouse, Any Application
