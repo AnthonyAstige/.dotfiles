@@ -1,11 +1,5 @@
 #!/bin/bash
 
-# Custom BrightIdea stuff
-export PATH=$PATH:/Users/anthonyastige/main/e2e/node_modules/.bin
-
-# Load Anthony's personal bash config
-[[ -s ~/.bashrc ]] && source ~/.bashrc
-
 # Needed dupe loading for MacOS
 ## https://github.com/junegunn/fzf/issues/716
 source ~/.fzf.bash
@@ -16,6 +10,9 @@ source ~/.fzf.bash
 [ -d "$HOME/.nodenv/bin" ] && export PATH="$HOME/.nodenv/bin:$PATH"
 ## Both mac & ubuntu
 eval "$(nodenv init -)"
+
+# Load Anthony's personal bash config
+[[ -s ~/.bashrc ]] && source ~/.bashrc
 
 # react-native https://facebook.github.io/react-native/docs/getting-started.html
 export ANDROID_HOME=$HOME/Library/Android/sdk

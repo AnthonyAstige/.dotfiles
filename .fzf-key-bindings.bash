@@ -137,7 +137,8 @@ if [[ ! -o vi ]]; then
   bind '"\C-r": " \C-e\C-u`__fzf_history__`\e\C-e\e^\er"'
 
   # ALT-C - cd into the selected directory
-  bind '"\ec": " \C-e\C-u`__fzf_cd__`\e\C-e\er\C-m"'
+  # TODO: Put this back on soemthing that doesn't overwrite MacOS copy keyboard shortcut
+  # bind '"\ec": " \C-e\C-u`__fzf_cd__`\e\C-e\er\C-m"'
 else
   # We'd usually use "\e" to enter vi-movement-mode so we can do our magic,
   # but this incurs a very noticeable delay of a half second or so,
@@ -168,8 +169,9 @@ else
   bind -m vi-command '"\C-r": "i\C-r"'
 
   # ALT-C - cd into the selected directory
-  bind '"\ec": "\C-x\C-addi`__fzf_cd__`\C-x\C-e\C-x\C-r\C-m"'
-  bind -m vi-command '"\ec": "ddi`__fzf_cd__`\C-x\C-e\C-x\C-r\C-m"'
+  # TODO: Put this back on soemthing that doesn't overwrite MacOS copy keyboard shortcut
+  # bind '"\ec": "\C-x\C-addi`__fzf_cd__`\C-x\C-e\C-x\C-r\C-m"'
+  # bind -m vi-command '"\ec": "ddi`__fzf_cd__`\C-x\C-e\C-x\C-r\C-m"'
 
   # GIT heart FZF (2 of 2)
   # Start & inspiration: https://gist.github.com/junegunn/8b572b8d4b5eddd8b85e5f4d40f17236
