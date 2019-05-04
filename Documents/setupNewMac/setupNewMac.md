@@ -18,6 +18,8 @@ Misc
             # Install all the plugins
             vim >> :PluginInstall
 
+    # [Nodenv](https://github.com/nodenv/nodenv#installation)
+
     # [Witch Mouse ignore](https://manytricks.com/osticket/kb/faq.php?id=109)
 
     # iTerm2: Solarized Dark
