@@ -9,6 +9,9 @@ Misc
 	# [FZF](https://github.com/junegunn/fzf)
 	brew install fzf
 
+        # [FZF completion misc]
+        git clone https://github.com/junegunn/fzf.git ~/.fzf
+
 	# [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 	brew install neovim
 
