@@ -46,6 +46,12 @@ Misc
         Install [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
             Import custom rules: `{"https://trello.com/":{"_enabled":true,"_rules":{".content-all-boards > div > .boards-page-board-section":{"display":"none"},".header-notifications":{"display":"none"},".window-overlay":{"background-color":"rgba(0,0,0,.98)"}}}}`
 
+    # Mac preference hacking
+        Disable power chime sound (sound made when plugging in regardless of if headphones plugged in and I think volume)
+            https://apple.stackexchange.com/a/309947
+            > defaults write com.apple.PowerChime ChimeOnNoHardware -bool true
+            > killall PowerChime
+
 System Preferences
 	Keyboard
 		Keyboard
