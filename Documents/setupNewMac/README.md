@@ -42,6 +42,10 @@ Misc
     # [Rouge](https://github.com/jneen/rouge)
         git clone https://github.com/jneen/rouge ~/.rouge
 
+    # Chrome
+        Install [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
+            Import custom rules: `{"https://trello.com/":{"_enabled":true,"_rules":{".content-all-boards > div > .boards-page-board-section":{"display":"none"},".header-notifications":{"display":"none"},".window-overlay":{"background-color":"rgba(0,0,0,.98)"}}}}`
+
 System Preferences
 	Keyboard
 		Keyboard
