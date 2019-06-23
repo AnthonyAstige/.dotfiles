@@ -201,7 +201,9 @@ bind -r '\C-s'
 stty -ixon
 
 # Rouge
-source ~/.rouge.bash
+if [ -f "~/.rouge.bash" ]; then
+    source ~/.rouge.bash
+fi
 
 # FZF
 ## https://github.com/junegunn/fzf
