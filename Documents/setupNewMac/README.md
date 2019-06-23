@@ -60,7 +60,7 @@ iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dar
 ## Chrome
 
 1. Install [stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)
-    1. Import custom rules: `{"https://trello.com/":{"_enabled":true,"_rules":{".content-all-boards > div > .boards-page-board-section":{"display":"none"},".header-notifications":{"display":"none"},".window-overlay":{"background-color":"rgba(0,0,0,.98)"}}}}`
+    1. Import custom rules: `{"https://trello.com/":{"_enabled":true,"_rules":{".content-all-boards > div > .boards-page-board-section":{"display":"none"},".window-overlay":{"background-color":"rgba(0,0,0,.98)"},"[data-test-id=header-notifications-button]":{"display":"none"}}},"*":{"_enabled":false,"_rules":{}}}`
 
 ## Mac preference hacking
 
