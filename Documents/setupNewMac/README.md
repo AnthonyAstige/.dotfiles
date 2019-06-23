@@ -1,8 +1,9 @@
 # This .dotfiles repository
 
-1. git clone git@github.com:AnthonyAstige/.dotfiles.git ~/.dotfiles
-    1. If really needed: git clone https://github.com/AnthonyAstige/.dotfiles.git ~/.dotfiles
-1. Follow instruction @ [A simpler way to manage your dotfiles](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html)
+1. Clone overwrite from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html)
+	1. `git clone --separate-git-dir=$HOME/.dotfiles git@github.com:AnthonyAstige/.dotfiles.git tmpdotfiles`
+	1. `rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/`
+	1. `rm -r tmpdotfiles`
 
 # Licences
     See ~/Documents/setupNewMacLicences (copy them over manually as not placed in public repository)
@@ -13,6 +14,10 @@
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
+
+brew install neovim
+
 ## [FZF](https://github.com/junegunn/fzf)
 
 brew install fzf
@@ -20,10 +25,6 @@ brew install fzf
 ### [FZF completion misc]
 
 git clone https://github.com/junegunn/fzf.git ~/.fzf
-
-## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
-
-brew install neovim
 
 ### [Vundle for VIM](https://github.com/VundleVim/Vundle.vim)
 

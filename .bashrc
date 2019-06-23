@@ -225,4 +225,8 @@ export NODE_OPTIONS=--max_old_space_size=4096
 eval "`npm completion`"
 
 # dotfiles like https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html
-alias dotfiles='/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+if [ -f "/opt/facebook/bin/git" ]; then
+	alias dotfiles='/opt/facebook/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+else
+	alias dotfiles='/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+fi
