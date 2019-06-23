@@ -707,3 +707,9 @@ highlight SpellBad ctermbg=0 ctermfg=1
 
 " Allow editing CronTab on MacOS https://superuser.com/a/907889
 autocmd filetype crontab setlocal nobackup nowritebackup
+
+" From FB 2019-06-23 https://fburl.com/wiki/hm620syv
+" use the same Python 3 as python3-nvim
+" let g:python3_host_prog='/usr/bin/python3'
+" same for Python 2
+let g:python_host_prog='/usr/bin/python2'
