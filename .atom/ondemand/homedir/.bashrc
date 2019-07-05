@@ -210,7 +210,7 @@ fi
 ## "If you use vi mode on bash, you need to add set -o vi before source ~/.fzf.bash in your .bashrc, so that it correctly sets up key bindings for vi mode."
 set -o vi
 # Loading for ubuntu works as single call here
-source ~/.fzf.bash
+# source ~/.fzf.bash
 
 # Fix npm run watch problems https://stackoverflow.com/a/48895989
 export NODE_OPTIONS=--max_old_space_size=4096
