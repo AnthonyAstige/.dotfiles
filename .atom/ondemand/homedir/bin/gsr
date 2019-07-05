@@ -1,0 +1,28 @@
+#!/bin/bash
+
+INPUT=$1
+CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# Verify that input is a number, otherwise compute squash number from given branch/hash
+regex='^[0-9]+$'
+if [[ $INPUT =~ $regex ]]; then
+    SQUASH_COUNT=$INPUT
+else
+    # Checking if is ancestor :: https://stackoverflow.com/a/13526591
+    if ! git merge-base --is-ancestor $INPUT $CURRENT_BRANCH 2> /dev/null; then
+        echo
+        echo "Erorr: Must supply an integer or a branch/hash that's a direct ancestor of current branch"
+        echo
+        exit
+    fi
+    SQUASH_COUNT=$(git log --pretty=oneline HEAD...$INPUT 2> /dev/null | wc -l | awk '{$1=$1};1')
+fi
+
+echo "...squashing $SQUASH_COUNT commits"
+
+# Backup branch
+gbb
+
+# Squash
+git reset --soft HEAD~$SQUASH_COUNT &&
+git commit --no-verify --edit -m"$(git log --format="%h -> %B" --reverse HEAD..HEAD@{1} | sed '/^$/d')"

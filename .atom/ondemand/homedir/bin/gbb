@@ -1,0 +1,24 @@
+#!/bin/bash
+# Git Branch Backup
+CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# Figure unique backup name sequentially
+# TODO: Make this unique to remote also
+# 01, 02, ... 99: https://stackoverflow.com/a/27436974
+for ii in $(seq -w 1 99); do
+    BACKUP_BRANCH="${CURRENT_BRANCH}__backup-$ii"
+
+    # Break if doesn't exist
+    # https://stackoverflow.com/q/5167957
+    if ! git rev-parse --verify --quite "$BACKUP_BRANCH" > /dev/null 2>&1; then
+        break 2;
+    fi
+done
+
+echo "Backing up $CURRENT_BRANCH to $BACKUP_BRANCH >> pushing & tracking with origin"
+# TODO: Make this work past 99 (right now will just fail)
+# TODO: Don't checkout $BACKUP_BRANCH in this script
+git branch $BACKUP_BRANCH && \
+    git checkout $BACKUP_BRANCH && \
+    git push origin -u $BACKUP_BRANCH && \
+    git checkout $CURRENT_BRANCH
