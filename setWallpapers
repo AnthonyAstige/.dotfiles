@@ -1,0 +1,18 @@
+ONE=" (1)"
+TWO="Re-systematization (2)"
+THR="Code (3)"
+FOU=" (4)"
+FIV="Meetings (5)"
+SIX=" (6)"
+SEV="Music (7)"
+
+cd ~/Documents/wallpapers
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$ONE" ./1.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$TWO" ./2.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$THR" ./3.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$FOU" ./4.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$FIV" ./5.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$SIX" ./6.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$SEV" ./7.png
+
+killall Dock
