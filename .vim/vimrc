@@ -281,6 +281,7 @@ call vundle#begin()
     Bundle 'myusuf3/numbers.vim'
     Bundle 'matze/vim-move'
     Bundle 'othree/jsdoc-syntax.vim'
+    Bundle 'pangloss/vim-javascript'
     Bundle 'qpkorr/vim-bufkill'
     Bundle 'scrooloose/nerdtree'
     Bundle 'skywind3000/asyncrun.vim'
@@ -495,6 +496,10 @@ let g:ale_sign_style_warning = "W"
 let g:ale_sign_style_error = "✗"
 " END: JSX Auto-formatting for BrightIdea
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
+" pangloss/vim-javascript
+" Flow syntax highlighting https://github.com/flowtype/vim-flow/issues/45#issuecomment-258456202
+let g:javascript_plugin_flow = 1
 
 " scrooloose/nerdtree
 function! NERDTreeToggleInCurDir()
