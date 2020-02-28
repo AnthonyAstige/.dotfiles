@@ -1,0 +1,2 @@
+# RIPGrep -- Faster searching, listens to .gitignore
+rg --no-heading --ignore-file ~/.bi-rg-ignore "$@"
