@@ -302,7 +302,7 @@ call vundle#begin()
 
     " Not windows VIM / Cygwin VIM (Remove unused & slow plugins)
     if !has("win32unix") && !has("win32")
-        Bundle 'Valloric/MatchTagAlways'
+        " Bundle 'Valloric/MatchTagAlways' " Failed on jest repository. TypeScript?
         Bundle 'airblade/vim-gitgutter'
         Bundle 'bling/vim-airline'
         Bundle 'sheerun/vim-polyglot'
