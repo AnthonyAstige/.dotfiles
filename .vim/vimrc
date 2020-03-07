@@ -268,6 +268,7 @@ call vundle#begin()
     Bundle 'chrisbra/csv.vim'
     Bundle 'christoomey/vim-sort-motion'
     Bundle 'dbakker/vim-projectroot'
+    Bundle 'flowtype/vim-flow'
     Bundle 'git@github.com:AnthonyAstige/ctrlhjkl.vim.git'
     Bundle 'git@github.com:AnthonyAstige/playaround.vim.git'
     Bundle 'haya14busa/incsearch.vim'
@@ -443,14 +444,14 @@ let g:ale_javascript_prettier_options = '--arrow-parens avoid --jsx-bracket-same
 " * Works from local repository prettier / eslint installs and will only apply if it can find them
 " ** NOT SURE THIS IF/HOW THIS APPLIES ANYMORE WITH GLOBALS
 let g:ale_fixers = {}
-let g:ale_fixers['jsx'] = ['prettier', 'eslint']
-let g:ale_fixers['json'] = ['prettier']
+" let g:ale_fixers['jsx'] = ['prettier', 'eslint']
+" let g:ale_fixers['json'] = ['prettier']
 " This only seems to work with .jsx extension files and not .ts extension (maybe would need tslint)
 let g:ale_fixers['typescript'] = ['prettier', 'eslint']
 " Only run these linters
 let g:ale_linters = {
-\   'jsx': ['eslint'],
-\   'javascript': ['eslint'],
+\   'jsx': ['flow'],
+\   'javascript': ['flow'],
 \   'typescript': ['eslint'],
 \}
 let g:ale_linters_explicit = 1
@@ -484,7 +485,7 @@ autocmd BufWritePost *.jsx,*.json call StuffIffNoErrors()
 " Fix GitGutter after formatting cleanup
 autocmd User ALEFixPost exe ":GitGutter"
 " Use (faster) daemon processes
-let g:ale_javascript_eslint_use_global = 1
+let g:ale_javascript_eslint_use_global = 0
 let g:ale_javascript_eslint_executable = 'eslint_d'
 " Don't use prettier_d and eslint_d together -- causes errors when loading file with fzf -- race condition? Something odd? Dunno. Anyways this seems to work and gets 90% of the speed anyways as eslint is much slower to run cold than prettier.
 " let g:ale_javascript_prettier_use_global = 1
