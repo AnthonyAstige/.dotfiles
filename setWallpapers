@@ -1,18 +1,25 @@
-ONE=" (1)"
-TWO="Re-systematization (2)"
-THR="Code (3)"
-FOU=" (4)"
-FIV="Meetings (5)"
-SIX=" (6)"
-SEV="Music (7)"
+ONE="Triage"
+TWO="Focus: Code A1"
+THR="Focus: Code A2"
+FOU="Focus: Code A3"
+FIV="Focus: Code B1"
+SIX="Focus: Code B2"
+SEV="Misc"
+EIG="Meetings"
+NIN="Music"
+
+POINTSIZE=40
+OFFSET="+10+10"
 
 cd ~/Documents/wallpapers
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$ONE" ./1.png
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$TWO" ./2.png
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$THR" ./3.png
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$FOU" ./4.png
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$FIV" ./5.png
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$SIX" ./6.png
-convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize 60 -annotate +20+20 "$SEV" ./7.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$ONE (1)" ./1.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$TWO (2)" ./2.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$THR (3)" ./3.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$FOU (4)" ./4.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$FIV (5)" ./5.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$SIX (6)" ./6.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$SEV (7)" ./7.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$EIG (8)" ./8.png
+convert -size 3840x2160 xc:black -gravity southeast  -fill white -pointsize $POINTSIZE -annotate "$OFFSET" "$NIN (9)" ./9.png
 
 killall Dock
