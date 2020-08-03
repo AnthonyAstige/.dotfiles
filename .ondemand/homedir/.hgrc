@@ -1,0 +1,8 @@
+[ui]
+username = astige <astige@fb.com>
+[pager]
+pager = BAT_PAGER='less -FrKX' delta
+[ui]
+username = astige <astige@fb.com>
+[pager]
+pager = BAT_PAGER='less -FrKX' delta
