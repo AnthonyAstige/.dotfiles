@@ -1,22 +1,16 @@
-#!/bin/bash
+# .bash_profile
+# bash_profile is for setting environment variables and anything else that
+# should happen at login.  bash_profile is sourced only in login shells (e.g.,
+# the shell started when you log in via SSH).  The main things that make sense
+# to put in bash_profile are environment variable exports and startup programs.
+# See https://fburl.com/bash for more information.
 
-# Needed dupe loading for MacOS
-## https://github.com/junegunn/fzf/issues/716
-# source ~/.fzf.bash
+# Source bashrc to pull in configuration for interactive shell use (the bashrc
+# will just return if the shell is not interactive).
+if [[ -f ~/.bashrc ]]; then
+  source ~/.bashrc
+fi
 
-# nodeenv -- Install from https://github.com/nodenv/nodenv as needed
-## Comment out as needed for Titanium Appcelerator
-## Ubuntu install
-[ -d "$HOME/.nodenv/bin" ] && export PATH="$HOME/.nodenv/bin:$PATH"
-## Both mac & ubuntu
-# eval "$(nodenv init -)"
-
-# Load Anthony's personal bash config
-[[ -s ~/.bashrc ]] && source ~/.bashrc
-
-# react-native https://facebook.github.io/react-native/docs/getting-started.html
-export ANDROID_HOME=$HOME/Library/Android/sdk
-export PATH=$PATH:$ANDROID_HOME/emulator
-export PATH=$PATH:$ANDROID_HOME/tools
-export PATH=$PATH:$ANDROID_HOME/tools/bin
-export PATH=$PATH:$ANDROID_HOME/platform-tools
+# Export environment variables, start background programs, etc.
+export EDITOR=nano
+export PATH=$PATH:$HOME/bin
