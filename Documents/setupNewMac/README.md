@@ -6,37 +6,69 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 	1. `git clone --separate-git-dir=$HOME/.dotfiles git@github.com:AnthonyAstige/.dotfiles.git tmpdotfiles`
 	1. `rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/`
 	1. `rm -r tmpdotfiles`
+1. Make it show up and work
+	1. [Set Bash as default shell](https://support.apple.com/en-us/HT208050) (all my scripts are based on bash ; before MacOS switched to zsh default)
+	1. Restart shell for `.bash_profile` to load (which includes `.bash_rc`)
+	1. Install misc below as needed to fix things, proactively, etc.
 1. Hide untracked files
 	1. `dotfiles config --local status.showUntrackedFiles no`
 
 # Licences
-    See ~/Documents/setupNewMacLicences (copy them over manually as not placed in public repository)
+    See `~/Documents/setupNewMacLicences` (copy them over manually as not placed in public repository)
 
 # Misc
 
 ## [Brew](https://brew.sh/)
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 ## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
-brew install neovim
+`brew install neovim`
+
+### Python 3 Support
+
+`brew install python`
+
+Note: You'll likely get some errors, follow instructions to cleanup and make brew's version take over
+
+### YCM Support
+
+[YCM install instructions](https://github.com/ycm-core/YouCompleteMe#quick-start-installing-all-completers) for details, though these simple steps seemed to work for new 2022 work macbook
+
+1. `brew install cmake python go nodejs`
+2. `cd ~/.vim/bundle/YouCompleteMe && python3 install.py --all`
+
+### Airline font support, may need to do these things
+
+1. [Install power-line fonts](https://github.com/powerline/fonts#quick-installation)
+```
+# clone
+git clone https://github.com/powerline/fonts.git --depth=1
+# install
+cd fonts
+./install.sh
+# clean-up a bit
+cd ..
+rm -rf fonts
+```
+1. iTerm2 issues: [Configure to a powerline font](https://github.com/powerline/fonts/issues/44)
 
 ## [FZF](https://github.com/junegunn/fzf)
 
-brew install fzf
+`brew install fzf`
 
 ### [FZF completion misc]
 
-git clone https://github.com/junegunn/fzf.git ~/.fzf
+`git clone https://github.com/junegunn/fzf.git ~/.fzf`
 
 ### [Vundle for VIM](https://github.com/VundleVim/Vundle.vim)
 
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 ### Install all the plugins
 
-vim >> :PluginInstall
+`vim` >> `:PluginInstall`
 
 ## [Nodenv](https://github.com/nodenv/nodenv#installation)
 
