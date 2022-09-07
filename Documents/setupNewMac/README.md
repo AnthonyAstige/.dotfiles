@@ -16,9 +16,6 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 
 ## [Brew](https://brew.sh/)
 
-# /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-# 2022: Warning: The Ruby Homebrew installer is now deprecated and has been rewritten in
-# Bash. Please migrate to the following command:
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 ## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
