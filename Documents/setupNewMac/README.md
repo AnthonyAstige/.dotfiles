@@ -16,7 +16,7 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 
 ## [Brew](https://brew.sh/)
 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 ## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
