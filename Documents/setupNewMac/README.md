@@ -26,6 +26,10 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 
 brew install neovim
 
+### Python 3 Support
+
+brew install python
+
 ## [FZF](https://github.com/junegunn/fzf)
 
 brew install fzf
