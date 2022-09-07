@@ -28,23 +28,23 @@ brew install neovim
 
 ### Python 3 Support
 
-brew install python
+`brew install python`
 
 ## [FZF](https://github.com/junegunn/fzf)
 
-brew install fzf
+`brew install fzf`
 
 ### [FZF completion misc]
 
-git clone https://github.com/junegunn/fzf.git ~/.fzf
+`git clone https://github.com/junegunn/fzf.git ~/.fzf`
 
 ### [Vundle for VIM](https://github.com/VundleVim/Vundle.vim)
 
-git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+`git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
 ### Install all the plugins
 
-vim >> :PluginInstall
+`vim` >> `:PluginInstall`
 
 ## [Nodenv](https://github.com/nodenv/nodenv#installation)
 
