@@ -8,7 +8,7 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 	1. `rm -r tmpdotfiles`
 1. Make it show up and work
 	1. [Set Bash as default shell](https://support.apple.com/en-us/HT208050) (all my scripts are based on bash ; before MacOS switched to zsh default)
-	1. Restart shell for `.bash_profile` to load (which includes `.bash_rc`
+	1. Restart shell for `.bash_profile` to load (which includes `.bash_rc`)
 	1. Install misc below as needed to fix things, proactively, etc.
 1. Hide untracked files
 	1. `dotfiles config --local status.showUntrackedFiles no`
