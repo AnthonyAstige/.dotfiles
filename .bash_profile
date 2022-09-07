@@ -26,3 +26,6 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 # or if you would rather this bit of code 'live' somewhere else
 . ~/.fbchef/environment
 # END: Block added by chef
+
+# https://stackoverflow.com/questions/40317578/yarn-global-command-not-working
+export PATH="$PATH:/Users/astige/.yarn/bin"
