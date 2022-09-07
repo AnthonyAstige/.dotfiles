@@ -578,6 +578,41 @@ let g:fzf_action = {
   \ 'ctrl-s': 'split' }
 " NERDTree mappings in ~/.nerdtree-mymapping.vim
 
+" bling/vim-airline
+" Note: This was all under 'Not windows VIM / Cygwin VIM' before 2022,
+" probably would work there anyways
+set laststatus=2					" * https://github.com/bling/vim-airline/issues/130
+" https://vi.stackexchange.com/questions/3359/how-do-i-fix-the-status-bar-symbols-in-the-airline-plugin
+let g:airline_powerline_fonts = 1
+
+" if !exists('g:airline_symbols')
+"   let g:airline_symbols = {}
+" endif
+"
+" " unicode symbols
+" let g:airline_left_sep = '»'
+" let g:airline_left_sep = '▶'
+" let g:airline_right_sep = '«'
+" let g:airline_right_sep = '◀'
+" let g:airline_symbols.linenr = '␊'
+" let g:airline_symbols.linenr = '␤'
+" let g:airline_symbols.linenr = '¶'
+" let g:airline_symbols.branch = '⎇'
+" let g:airline_symbols.paste = 'ρ'
+" let g:airline_symbols.paste = 'Þ'
+" let g:airline_symbols.paste = '∥'
+" let g:airline_symbols.whitespace = 'Ξ'
+"
+" " airline symbols
+" let g:airline_left_sep = ''
+" let g:airline_left_alt_sep = ''
+" let g:airline_right_sep = ''
+" let g:airline_right_alt_sep = ''
+" let g:airline_symbols.branch = ''
+" let g:airline_symbols.readonly = ''
+" let g:airline_symbols.linenr = ''
+
+
 " Not windows VIM / Cygwin VIM
 if !has("win32unix") && !has("win32")
     " airblade/vim-gitgutter
@@ -589,9 +624,6 @@ if !has("win32unix") && !has("win32")
     highlight GitGutterChangeDelete ctermfg=yellow
     " Display in all open windows on open
     autocmd VimEnter * if winnr() != winnr('$') | :GitGutterAll | endif
-
-    " bling/vim-airline
-    set laststatus=2					" * https://github.com/bling/vim-airline/issues/130
 
     " Valloric/MatchTagAlways
     " Work for JSX https://github.com/Valloric/MatchTagAlways/issues/30
