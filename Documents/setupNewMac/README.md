@@ -1,12 +1,13 @@
 # This .dotfiles repository
 
 Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/blog/2018/a-simpler-way-to-manage-your-dotfiles.html)
-	1. Basic clone overwrite
-		1. `git clone --separate-git-dir=$HOME/.dotfiles git@github.com:AnthonyAstige/.dotfiles.git tmpdotfiles`
-		1. `rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/`
-		1. `rm -r tmpdotfiles`
-	1. Hide untracked files
-		1. `dotfiles config --local status.showUntrackedFiles no`
+
+1. Basic clone overwrite
+	1. `git clone --separate-git-dir=$HOME/.dotfiles git@github.com:AnthonyAstige/.dotfiles.git tmpdotfiles`
+	1. `rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/`
+	1. `rm -r tmpdotfiles`
+1. Hide untracked files
+	1. `dotfiles config --local status.showUntrackedFiles no`
 
 # Licences
     See ~/Documents/setupNewMacLicences (copy them over manually as not placed in public repository)
