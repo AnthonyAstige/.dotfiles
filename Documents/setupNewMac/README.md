@@ -30,9 +30,11 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 
 `brew install python`
 
+Note: You'll likely get some errors, follow instructions to cleanup and make brew's version take over
+
 ### YCM Support
 
-[YCM install instructions](https://github.com/ycm-core/YouCompleteMe#quick-start-installing-all-completers) for details. Or this may work (trying 2022, unconfirmed):
+[YCM install instructions](https://github.com/ycm-core/YouCompleteMe#quick-start-installing-all-completers) for details, though these simple steps seemed to work for new 2022 work macbook
 
 1. `brew install cmake python go nodejs`
 2. `cd ~/.vim/bundle/YouCompleteMe && python3 install.py --all`
