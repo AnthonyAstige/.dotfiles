@@ -14,17 +14,17 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 	1. `dotfiles config --local status.showUntrackedFiles no`
 
 # Licences
-    See ~/Documents/setupNewMacLicences (copy them over manually as not placed in public repository)
+    See `~/Documents/setupNewMacLicences` (copy them over manually as not placed in public repository)
 
 # Misc
 
 ## [Brew](https://brew.sh/)
 
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 ## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
-brew install neovim
+`brew install neovim`
 
 ### Python 3 Support
 
