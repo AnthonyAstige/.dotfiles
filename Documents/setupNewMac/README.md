@@ -6,6 +6,11 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 	1. `git clone --separate-git-dir=$HOME/.dotfiles git@github.com:AnthonyAstige/.dotfiles.git tmpdotfiles`
 	1. `rsync --recursive --verbose --exclude '.git' tmpdotfiles/ $HOME/`
 	1. `rm -r tmpdotfiles`
+1. Make it show up and work
+	1. Set Bash as default shell (all my scripts are based on bash ; before MacOS switched to zsh default)
+		1. https://support.apple.com/en-us/HT208050
+	1. Restart shell for `.bash_profile` to load (which includes `.bash_rc`
+	1. Install misc below as needed to fix things, proactively, etc.
 1. Hide untracked files
 	1. `dotfiles config --local status.showUntrackedFiles no`
 
