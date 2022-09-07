@@ -39,6 +39,21 @@ Note: You'll likely get some errors, follow instructions to cleanup and make bre
 1. `brew install cmake python go nodejs`
 2. `cd ~/.vim/bundle/YouCompleteMe && python3 install.py --all`
 
+### Airline font support, may need to do these things
+
+1. [Install power-line fonts](https://github.com/powerline/fonts#quick-installation)
+```
+# clone
+git clone https://github.com/powerline/fonts.git --depth=1
+# install
+cd fonts
+./install.sh
+# clean-up a bit
+cd ..
+rm -rf fonts
+```
+1. iTerm2 issues: [Configure to a powerline font](https://github.com/powerline/fonts/issues/44)
+
 ## [FZF](https://github.com/junegunn/fzf)
 
 `brew install fzf`
