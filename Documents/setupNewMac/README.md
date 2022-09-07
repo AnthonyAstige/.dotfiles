@@ -32,7 +32,7 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 
 ### YCM Support
 
-Follow instructions at https://github.com/ycm-core/YouCompleteMe#quick-start-installing-all-completers, this may work (trying 2022, unconfirmed)
+[YCM install instructions](https://github.com/ycm-core/YouCompleteMe#quick-start-installing-all-completers) for details. Or this may work (trying 2022, unconfirmed):
 
 1. `brew install cmake python go nodejs`
 2. `cd ~/.vim/bundle/YouCompleteMe && python3 install.py --all`
