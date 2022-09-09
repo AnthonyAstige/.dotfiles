@@ -100,11 +100,7 @@ iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dar
 ## Mac preference hacking
 
 1. Disable power chime sound (sound made when plugging in regardless of if headphones plugged in and I think volume)
-
-    https://apple.stackexchange.com/a/309947
-
-    > defaults write com.apple.PowerChime ChimeOnNoHardware -bool true
-    > killall PowerChime
+    1. `~/bin/no-chime`
 
 ## Jing
 
