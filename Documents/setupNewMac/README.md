@@ -106,6 +106,11 @@ iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dar
 
 Manually copy configuration
 
+## VSCode
+
+Find wherever `settings.json` and `keybindings.json` are on old system, and copy they over manually (backing up existing)
+* Custom for Meta base, didn't want in repo
+
 # System Preferences
 
 	1. Keyboard
