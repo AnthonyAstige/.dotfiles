@@ -100,13 +100,18 @@ iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dar
 ## Mac preference hacking
 
 1. Disable power chime sound (sound made when plugging in regardless of if headphones plugged in and I think volume)
+    1. `~/bin/no-chime`
 
-    https://apple.stackexchange.com/a/309947
+## SnagIt
 
-    > defaults write com.apple.PowerChime ChimeOnNoHardware -bool true
-    > killall PowerChime
+Manually copy configuration
 
-## Jing
+## VSCode
+
+1. Find wherever `settings.json` and `keybindings.json` are on old system (`find ~/ settings.json 2>/dev/null` ...), and copy they over manually (backing up existing)
+    1. Custom for Meta base, didn't want in repo
+1. Install plugins
+    1. At time of writting (Sept '22) VIM (`vscodevim`) is the only one 
 
 # System Preferences
 
