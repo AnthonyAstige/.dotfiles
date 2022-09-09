@@ -108,8 +108,10 @@ Manually copy configuration
 
 ## VSCode
 
-Find wherever `settings.json` and `keybindings.json` are on old system, and copy they over manually (backing up existing)
-* Custom for Meta base, didn't want in repo
+1. Find wherever `settings.json` and `keybindings.json` are on old system (`find ~/ settings.json 2>/dev/null` ...), and copy they over manually (backing up existing)
+    1. Custom for Meta base, didn't want in repo
+1. Install plugins
+    1. At time of writting (Sept '22) VIM (`vscodevim`) is the only one 
 
 # System Preferences
 
