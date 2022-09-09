@@ -35,4 +35,5 @@ done
 # 	sleep 1
 # done
 #
-/usr/bin/say "Airpods connected"
+# Would need the above to finish before announcing ... however it seemed to hang and cause future connections to fail until process was killed ... so removing
+# /usr/bin/say "Airpods connected"
