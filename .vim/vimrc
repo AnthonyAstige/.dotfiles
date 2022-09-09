@@ -444,7 +444,7 @@ let g:ale_javascript_prettier_options = '--arrow-parens avoid --jsx-bracket-same
 " * Works from local repository prettier / eslint installs and will only apply if it can find them
 " ** NOT SURE THIS IF/HOW THIS APPLIES ANYMORE WITH GLOBALS
 let g:ale_fixers = {}
-" let g:ale_fixers['jsx'] = ['prettier', 'eslint']
+let g:ale_fixers['jsx'] = ['prettier', 'eslint']
 " let g:ale_fixers['json'] = ['prettier']
 " This only seems to work with .jsx extension files and not .ts extension (maybe would need tslint)
 let g:ale_fixers['typescript'] = ['prettier', 'eslint']
