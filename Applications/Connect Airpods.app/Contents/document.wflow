@@ -59,38 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>set -e
-
-# https://spin.atomicobject.com/2021/02/27/automate-airpods-switch-devices/ 
-# https://github.com/deweller/switchaudio-osx/
-# https://github.com/lapfelix/BluetoothConnector
-
-mac=08-65-18-5a-54-cb
-name="Anthony's AirPods Pro - Find My"
-
-/usr/local/bin/BluetoothConnector --connect "${mac}" 1&gt;&amp;2
-while [ `/usr/local/bin/BluetoothConnector --status "${mac}"` != Connected ]
-do
-	sleep 1
-done
-
-until /usr/local/bin/SwitchAudioSource -a | grep "${name}"
-do
-	sleep 1
-done
-
-/usr/local/bin/SwitchAudioSource -s "${name}" 1&gt;&amp;2
-/usr/local/bin/SwitchAudioSource -s "${name}" -t input 1&gt;&amp;2
-until /usr/local/bin/SwitchAudioSource -c | grep "${name}"
-do
-	sleep 1
-done
-until /usr/local/bin/SwitchAudioSource -c -t input | grep "${name}"
-do
-	sleep 1
-done
-
-/usr/bin/say "Connected."</string>
+					<string>/Users/astige/bin/connectAirpods</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -200,12 +169,10 @@ done
 						<string>4</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<integer>1</integer>
 				<key>location</key>
-				<string>662.500000:938.000000</string>
+				<string>662.500000:856.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>

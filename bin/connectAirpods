@@ -1,0 +1,38 @@
+set -e
+
+# https://spin.atomicobject.com/2021/02/27/automate-airpods-switch-devices/
+# https://github.com/lapfelix/BluetoothConnector
+# https://github.com/deweller/switchaudio-osx/
+# * This may be freezing, but can use elgato script for it instead, and not sure this is even needed anyways
+
+mac=08-65-18-5a-54-cb
+name="Anthony's AirPods Pro - Find My"
+
+/usr/local/bin/BluetoothConnector --connect "${mac}" 1>&2
+echo "Conneting..."
+while [ `/usr/local/bin/BluetoothConnector --status "${mac}"` != Connected ]
+do
+	sleep 1
+done
+
+# echo "Switching..."
+# This doesn't seem needed
+# until /usr/local/bin/SwitchAudioSource -a | grep "${name}"
+# do
+# 	sleep 1
+# done
+
+# /usr/local/bin/SwitchAudioSource -s "${name}" 1>&2
+# /usr/local/bin/SwitchAudioSource -s "${name}" -t input 1>&2
+# echo "Switching 2..."
+# until /usr/local/bin/SwitchAudioSource -c | grep "${name}"
+# do
+# 	sleep 1
+# done
+# echo "Switching 3..."
+# until /usr/local/bin/SwitchAudioSource -c -t input | grep "${name}"
+# do
+# 	sleep 1
+# done
+#
+/usr/bin/say "Airpods connected"
