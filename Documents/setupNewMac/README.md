@@ -102,7 +102,9 @@ iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dar
 1. Disable power chime sound (sound made when plugging in regardless of if headphones plugged in and I think volume)
     1. `~/bin/no-chime`
 
-## Jing
+## SnagIt
+
+Manually copy configuration
 
 # System Preferences
 
