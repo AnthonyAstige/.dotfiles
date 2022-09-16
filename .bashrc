@@ -232,3 +232,6 @@ if [ -f "/opt/facebook/bin/git" ]; then
 else
 	alias dotfiles='/usr/local/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
 fi
+
+# Disable ZSH warning https://infosecmonkey.com/removing-the-zsh-warning-on-macos-catalina/
+export BASH_SILENCE_DEPRECATION_WARNING=1

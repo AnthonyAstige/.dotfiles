@@ -4,10 +4,13 @@
 ## https://github.com/junegunn/fzf/issues/716
 source ~/.fzf.bash
 
+# Brew (early in profile for other things like nodenv to find)
+export PATH="$HOME/homebrew/bin:$HOME/homebrew/sbin:$PATH"
+
 # nodeenv -- Install from https://github.com/nodenv/nodenv as needed
 ## Comment out as needed for Titanium Appcelerator
 ## Ubuntu install
-[ -d "$HOME/.nodenv/bin" ] && export PATH="$HOME/.nodenv/bin:$PATH"
+# [ -d "$HOME/.nodenv/bin" ] && export PATH="$HOME/.nodenv/bin:$PATH"
 ## Both mac & ubuntu
 eval "$(nodenv init -)"
 
