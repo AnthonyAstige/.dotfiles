@@ -31,8 +31,10 @@ Install in default directory for faster installs (less recompiles)
 
 Install under home folder (less conflicts with autoconfigs)
 
-`git clone https://github.com/Homebrew/brew ~/homebrew`
-`brew update`
+```
+git clone https://github.com/Homebrew/brew ~/homebrew
+brew update
+```
 
 ## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
