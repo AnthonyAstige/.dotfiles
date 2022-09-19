@@ -14,6 +14,10 @@ export PATH="$HOME/homebrew/bin:$HOME/homebrew/sbin:$PATH"
 ## Both mac & ubuntu
 eval "$(nodenv init -)"
 
+# Load Anthony's private bash config stuff (shouldn't be in public repo)
+if [ -f ~/.bashrc_private_export_npm_token ]; then
+    [[ -s ~/.bashrc_private_export_npm_token ]] && source ~/.bashrc_private_export_npm_token
+fi
 # Load Anthony's personal bash config
 [[ -s ~/.bashrc ]] && source ~/.bashrc
 
