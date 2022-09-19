@@ -44,7 +44,9 @@ brew update
 
 `brew install python`
 
-Note: You'll likely get some errors, follow instructions to cleanup and make brew's version take over
+`python3 -m pip install --user --upgrade pynvim`
+
+Note: You may get some errors. Follow instructions to cleanup and make brew's version take over.
 
 ### YCM Support
 
