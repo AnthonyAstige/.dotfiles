@@ -189,6 +189,7 @@ autocmd Filetype typescript,javascript.jsx,javascript nnoremap <leader>d odebugg
 autocmd Filetype typescript,javascript.jsx,javascript nnoremap <leader>D Odebugger<esc>i
 autocmd Filetype typescript,javascript.jsx,javascript nnoremap <leader>w oconsole.warn()<esc>i
 autocmd Filetype typescript,javascript.jsx,javascript nnoremap <leader>W Oconsole.warn()<esc>i
+nmap <silent> gd <Plug>(coc-definition)
 " \ as Join line as J is taken by move line down
 nnoremap \ <s-J>
 " <c-s> to save
@@ -260,6 +261,7 @@ set nocompatible
 filetype off
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
+    Bundle 'neoclide/coc.nvim'
     Bundle 'Raimondi/delimitMate'
     Bundle 'VundleVim/Vundle.vim'
     Bundle 'altercation/vim-colors-solarized'
@@ -515,7 +517,7 @@ function! NERDTreeToggleInCurDir()
         endif
     endif
 endfunction
-nnoremap <silent> <c-o> :call NERDTreeToggleInCurDir()<cr>
+" nnoremap <silent> <c-o> :call NERDTreeToggleInCurDir()<cr>
 let g:NERDTreeWinSize=80
 let g:NERDTreeDirArrowExpandable = '>'
 let g:NERDTreeDirArrowCollapsible = 'V'
