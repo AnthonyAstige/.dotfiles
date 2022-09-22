@@ -8,9 +8,9 @@ set -e
 mac=08-65-18-5a-54-cb
 name="Anthony's AirPods Pro - Find My"
 
-/usr/local/bin/BluetoothConnector --connect "${mac}" 1>&2
+/Users/astige/homebrew/bin/BluetoothConnector --connect "${mac}" 1>&2
 echo "Conneting..."
-while [ `/usr/local/bin/BluetoothConnector --status "${mac}"` != Connected ]
+while [ `/Users/astige/homebrew/bin/BluetoothConnector --status "${mac}"` != Connected ]
 do
 	sleep 1
 done
