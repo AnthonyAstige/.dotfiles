@@ -440,8 +440,7 @@ let g:jsx_ext_required = 1
 nnoremap <silent> <leader>a <nop>
 nnoremap <silent> <leader>aj :ALENextWrap<cr>
 nnoremap <silent> <leader>ak :ALEPreviousWrap<cr>
-" Configure to BI standards
-let g:ale_javascript_prettier_options = '--arrow-parens avoid --jsx-bracket-same-line false --parser babylon --print-width 100 --single-quote true --tab-width 4 --trailing-comma none --use-tabs false'
+
 " Use prettier then eslint - https://github.com/w0rp/ale/issues/683#issuecomment-310635861
 " * Works from local repository prettier / eslint installs and will only apply if it can find them
 " ** NOT SURE THIS IF/HOW THIS APPLIES ANYMORE WITH GLOBALS
