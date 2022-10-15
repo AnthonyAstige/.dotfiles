@@ -88,7 +88,7 @@ rm -rf fonts
 
 ### TypeScript Server
 
-Within vim `:CocInstall coc-tsserver`
+`vim` >> `:CocInstall coc-tsserver`
 
 ## [Nodenv](https://github.com/nodenv/nodenv#installation)
 
