@@ -86,6 +86,10 @@ rm -rf fonts
 
 `vim` >> `:PluginInstall`
 
+### TypeScript Server
+
+Within vim `:CocInstall coc-tsserver`
+
 ## [Nodenv](https://github.com/nodenv/nodenv#installation)
 
 ## [Witch Mouse ignore](https://manytricks.com/osticket/kb/faq.php?id=109)
