@@ -6,11 +6,11 @@
 	<dict>
 		<key>Resources/AboutWindow.nib</key>
 		<data>
-		pPIBffoIueO/ykfHCRGsT/vGKqg=
+		eJjmvFRCOkoLywgDVdye7falNwg=
 		</data>
 		<key>Resources/Add Mark Touch Bar Icon.tiff</key>
 		<data>
-		T5H6T4PW/GydAUWKhXMJTcgRRdU=
+		U1xcFE1m2O0WCOPMsQPD6CaStlo=
 		</data>
 		<key>Resources/AddressBook.strings</key>
 		<data>
@@ -18,31 +18,31 @@
 		</data>
 		<key>Resources/AdvancedWorkingDirectoryWindow.nib</key>
 		<data>
-		L3Gb8yWHiU85iOLJrVhc1HXYCmY=
+		Q0ZOc88MF++SA64qzFc0uPIhZeo=
 		</data>
 		<key>Resources/Alert.tiff</key>
 		<data>
-		fi+W9+xfFl7SFzySkJBFtSIPP8g=
+		QfnLN5thqLh7rklY0f0JZw+VTGs=
 		</data>
 		<key>Resources/AppIcon.icns</key>
 		<data>
-		OCd0ivm8OIzLDf3lwxNAtxHUCsk=
+		aUT3DSbj9i3uFVXYaOtSFrQ5BbU=
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		OvPuhWhmZf1lwIDoZbkWAfqz3W0=
+		C2u6g07h5Wy7B0P8IyBSSg2AoWQ=
 		</data>
 		<key>Resources/Autocomplete.nib</key>
 		<data>
-		OElI66IY1tlQ57YjZWJRbvHumg0=
+		JsiF8WJjFl/mnWMrENha/uhRP44=
 		</data>
 		<key>Resources/BackgroundStripes.tiff</key>
 		<data>
-		yGrsLmY4bdxq3D2lpA8g/5NXlqM=
+		HtjHibNtDi0jvTdVuXeHvaxN6/Q=
 		</data>
 		<key>Resources/BigArrow.tiff</key>
 		<data>
-		mlJxeBD4nSyTvx8uS5YNPxW1zI8=
+		MWpnJelbWUnG1RwogblWCkxFM14=
 		</data>
 		<key>Resources/BroadcastInput.png</key>
 		<data>
@@ -50,35 +50,39 @@
 		</data>
 		<key>Resources/BrokenPipeDivider.png</key>
 		<data>
-		JnpWrG7/NrNL3NHf4hN79eeToLE=
+		91oZhubtyCi2JAVwByZiFrwo1po=
 		</data>
 		<key>Resources/BulkCopyProfilePreferences.nib</key>
 		<data>
-		HtGiGrn/T5J33I0EYRTaGqXmPL0=
+		wFg1mO/JGHIKIPx94L+JXCXF0dA=
 		</data>
 		<key>Resources/ChangeProfile.tiff</key>
 		<data>
-		rOEpF7WORAOxyDbq/K0rT1RfHzM=
+		m/UM7EMxqdGXWvHpuCZaMdY+/eY=
 		</data>
 		<key>Resources/CheckMark.tiff</key>
 		<data>
-		F/HxBYTtVbBodk3aB2zmS46cvik=
+		NmVTxZVp1UNzOm6aDT7Z630+MSU=
 		</data>
 		<key>Resources/ChevronDown.tiff</key>
 		<data>
-		C6VxmCUK4WOGe0UhLSt3btHu730=
+		T7Fdvbd3Nx6GyX94BpccofynsLM=
 		</data>
 		<key>Resources/Color Preset Touch Bar Icon.tiff</key>
 		<data>
-		U7fLm4G/os2Ihb8IODHNZadl1hA=
+		gkJNe+isG/Pt07+3MnnsmzVrVog=
 		</data>
 		<key>Resources/ColorPresets.plist</key>
 		<data>
-		brdKp09t1iC+Onb+ADgBMtJdfbE=
+		l3xVnlTeGbvSgXnHRphHEl05RMY=
 		</data>
 		<key>Resources/CommandHistoryPopup.nib</key>
 		<data>
-		r04bAjJZEnLHEu2qUO68d0VK/pI=
+		5/3LTYX/cNl+QRsUa5NdHCUXrwY=
+		</data>
+		<key>Resources/CompactMinimalWindowScreenshot.png</key>
+		<data>
+		BWIkdwtNJztfehg3zWneLF9ERmw=
 		</data>
 		<key>Resources/Coprocess.png</key>
 		<data>
@@ -86,11 +90,15 @@
 		</data>
 		<key>Resources/CopyMode.tiff</key>
 		<data>
-		G0BursTPdG8jlmlODXz5qYxk3VA=
+		FX3l4ma0JHThpXVilZSW7l7rXq8=
+		</data>
+		<key>Resources/CustomizableTitles.png</key>
+		<data>
+		Ys1fZNNdqj9YavTngNgYZVKIohk=
 		</data>
 		<key>Resources/DeadForDarkTheme.tiff</key>
 		<data>
-		lHB+Z+4SDhZgA5/jyBdkQMIPPMo=
+		KOJXHUoyQeR7/nEifSrXBPW6OSY=
 		</data>
 		<key>Resources/DefaultBookmark.plist</key>
 		<data>
@@ -106,15 +114,15 @@
 		</data>
 		<key>Resources/DirectoriesPopup.nib</key>
 		<data>
-		wzFzLTZG84kA016VSl8IGcv6g1s=
+		JdPsZncJ84gNNUbKVI3ZVp4TBJs=
 		</data>
 		<key>Resources/DisableTips.tiff</key>
 		<data>
-		1UN3IPEeA00sFro0n7kwKHbpc5U=
+		2gCqPBuP8rQ76JOJqZ1HdCzF7hY=
 		</data>
 		<key>Resources/Dismiss.tiff</key>
 		<data>
-		48LsiGe7kK3WafioECrGppP+eoE=
+		iSvXZp1VgNMvl66Xmw0mhXAO6Ik=
 		</data>
 		<key>Resources/EncodingsWithLowerCase.plist</key>
 		<data>
@@ -122,11 +130,11 @@
 		</data>
 		<key>Resources/Erase.tiff</key>
 		<data>
-		CXb/YaAdt7FHaycL+by25XrVAaM=
+		ARC0hSlRiLVOnlxYyeIpSJpnjbI=
 		</data>
 		<key>Resources/EraseDarkBackground.tiff</key>
 		<data>
-		WkJHHcyUAlHad4LDjWR4LVY8M4w=
+		93kRZvgCsMqg/clUp0liBMGmvnQ=
 		</data>
 		<key>Resources/FindCursorCell1.png</key>
 		<data>
@@ -146,39 +154,55 @@
 		</data>
 		<key>Resources/FindView.nib</key>
 		<data>
-		xfn8MLeEJAqr/xFYGi0xsiFskhQ=
+		ywYKZ31uh1USwm3WnmDSW6bbfyA=
 		</data>
 		<key>Resources/GlobalSearch.nib</key>
 		<data>
-		foqlhKOCEVMmYlFYBAn5Jwpfg/s=
+		FVmR+RfC4f8Z4xpGhb7MfNYpONg=
+		</data>
+		<key>Resources/GoBack.tiff</key>
+		<data>
+		1uAaXZEKwkr8xa+K1PGtOtRa6YE=
+		</data>
+		<key>Resources/GoForward.tiff</key>
+		<data>
+		DA4K2dqmIwhDpPl3L6ZYiWVmHJE=
 		</data>
 		<key>Resources/Hamburger.tiff</key>
 		<data>
-		ipkvsytJhimPNgJ6JfV3EIlME68=
+		6nR+LT9oqEv1fh1DS/+7euOyL+g=
 		</data>
 		<key>Resources/IBarCursor.tiff</key>
 		<data>
-		ybdtxTMvlEv6FsEejAtR3Tmk2kk=
+		CSB7BJhMW7JqPt+AyUzmdG5UVlc=
 		</data>
 		<key>Resources/IBarCursorXMR.tiff</key>
 		<data>
-		ZY6CYC8c4YdDsvMxLbhpf39YdeI=
+		95xuI75PGCQQR7Hh/pDjGkVgGzA=
 		</data>
 		<key>Resources/Info.tiff</key>
 		<data>
-		hDCOVVBQunMn4nc8e52EE9/lEjg=
+		MBUC7+bbk7CMv8BKxyXIMPBmLJ4=
 		</data>
-		<key>Resources/InstantReplay.nib</key>
+		<key>Resources/InstantReplay.nib/keyedobjects-101400.nib</key>
 		<data>
-		7Tkq/ITzRyX/9hVy5isrA+Or/KQ=
+		YYGV5tq8jWlkco4/d4FjCaKz9Tk=
+		</data>
+		<key>Resources/InstantReplay.nib/keyedobjects.nib</key>
+		<data>
+		Y9Ln2HDyy8uliXK2EFVuBa5FWMk=
+		</data>
+		<key>Resources/InternetAccessPolicy.plist</key>
+		<data>
+		WUZl2UDAeO2fIunJ6lYYgH5WjRY=
 		</data>
 		<key>Resources/Later.tiff</key>
 		<data>
-		WlXKXtHSOxy2fzs+mYoFY289NHI=
+		OwavUtCRKV1SIU+jrjpAdKWVdhY=
 		</data>
 		<key>Resources/Licenses.txt</key>
 		<data>
-		G/olub+T6LpApsa6nbRlFnBm7lw=
+		ru91gVU4hZxSJJUbiN9PaFU3a84=
 		</data>
 		<key>Resources/LogoFrame.png</key>
 		<data>
@@ -190,11 +214,11 @@
 		</data>
 		<key>Resources/Loupe.tiff</key>
 		<data>
-		pMzR3WERkDdY+d1cC9bxoBK/F+w=
+		7tjToLqJSIAnm/4SPqe9mL5JeYA=
 		</data>
 		<key>Resources/MainMenu.nib</key>
 		<data>
-		c8Lp5eer0LcN+FkoTjhzg4T8YG8=
+		yB5+NIZ/ajEdRoUTOLEZtQxRiQ4=
 		</data>
 		<key>Resources/MainMenu.strings</key>
 		<data>
@@ -202,51 +226,71 @@
 		</data>
 		<key>Resources/Man Page Touch Bar Icon.tiff</key>
 		<data>
-		D0T9/Qa6iwqdEtcsXuFD5sZ7h4I=
+		DPsNvTLQV82RSgfgUkIPKIfQNPQ=
 		</data>
 		<key>Resources/Maximized.tiff</key>
 		<data>
-		BSVIh3MNS+afZYol39fdARsrDNQ=
+		IGebkyvrhstQtQI3m6UIR3rxwWw=
 		</data>
 		<key>Resources/MigrationMap.plist</key>
 		<data>
 		0AzNj31th0coaotoiRKvUO9msB4=
 		</data>
+		<key>Resources/MiniPasteView.nib</key>
+		<data>
+		m9INtUR3Pv/vXirEy1oKDG5w3ZQ=
+		</data>
+		<key>Resources/MinimalFindView.nib</key>
+		<data>
+		ywHrC29zVk5j8mSeqg5GnmPQ3vU=
+		</data>
+		<key>Resources/MinimalPasteView.nib</key>
+		<data>
+		uN3qv/Ai/VKb7vUdi4tpyZMUL00=
+		</data>
 		<key>Resources/Model.momd/Model.mom</key>
 		<data>
-		BCtMfQuhviimfXmh6OuBsacaA18=
+		QJ5qI4/HA0YlnXaZygwsEJElPlU=
 		</data>
 		<key>Resources/Model.momd/VersionInfo.plist</key>
 		<data>
 		j49pC3KXB18UZTVrAl2tVmEtEAE=
 		</data>
+		<key>Resources/MouseReportingCursorOverlay.tiff</key>
+		<data>
+		WgZGkRjUD8NW+dcvaf47wZiPn1o=
+		</data>
 		<key>Resources/Navigate.tiff</key>
 		<data>
-		JRHCxu11L2nZ5Tzgltjm8HhKlJI=
+		KiJd9aIRFMEkcMFTQPNEqs2v8xU=
 		</data>
 		<key>Resources/NewOutput.tiff</key>
 		<data>
-		gPCSBWkTLglXe38cPRXHq5QmNeQ=
+		oXRIuuxvTg/HxcPtHpwOs214eus=
 		</data>
 		<key>Resources/NewOutputForDarkTheme.tiff</key>
 		<data>
-		cS1F5rPzgiDSuTLoc8Zd9QvnLVs=
+		bgNBmDIBqVkHWd28ElgO2VSRdtI=
 		</data>
 		<key>Resources/Next Mark Touch Bar Icon.tiff</key>
 		<data>
-		ucnrC3eRbfNDnQQB5qbE4/NzOD8=
+		fps6kx1bMaO6wa2LDs+ImRqb7d0=
 		</data>
 		<key>Resources/NextTip.tiff</key>
 		<data>
-		boXlMVU/Kq91m29zKTLkmiJ+bMM=
+		Gsw66z6RsblEQvg76har5W6KMKE=
 		</data>
 		<key>Resources/NoColor.tiff</key>
 		<data>
-		g9i+kmxR9atzZhxaz+Lr0MlQoZU=
+		ffzeBbpGaSi9Ws8vn3Ch3Js+A04=
 		</data>
 		<key>Resources/NumberOfSpacesAccessoryView.nib</key>
 		<data>
-		TzVggKc8NNOS+ZebKEAP3wc6Wo0=
+		Q/ddi+BNvV2jrJak2b2qrhtWyKs=
+		</data>
+		<key>Resources/OpenQuicklyActionIcon.tiff</key>
+		<data>
+		osxoWpvlGDNmT1c/Rt5gkLSCCu8=
 		</data>
 		<key>Resources/PTYTextViewTest-golden-nonretina-testCustomUnderline.png</key>
 		<data>
@@ -266,15 +310,47 @@
 		</data>
 		<key>Resources/PasteView.nib</key>
 		<data>
-		Nn8Kvn+tQyxO4UJJb1wlCTzTD/I=
+		+4kujoGAxHHNoFj/z1TMcmjDjp8=
 		</data>
 		<key>Resources/PasteboardHistory.nib</key>
 		<data>
-		SE8uRLc8rg4i30gXQtC6LwSpp+o=
+		h+AaIDS5Znde6xClOWcaIexdUQI=
+		</data>
+		<key>Resources/PopoverIcon.tiff</key>
+		<data>
+		KyhkrT/Y05xG2dTg7pV0eFrmOV4=
+		</data>
+		<key>Resources/PowerlineLN.pdf</key>
+		<data>
+		pfyiIcvo6EfLBR4CedbmXT95fYA=
+		</data>
+		<key>Resources/PowerlineLineLeftArrow.pdf</key>
+		<data>
+		CIXz9rI7ZZ2YlzXCXW/G86hjcu0=
+		</data>
+		<key>Resources/PowerlineLineRightArrow.pdf</key>
+		<data>
+		3A5Jl2CACr0sidz36YJFkd52U1o=
+		</data>
+		<key>Resources/PowerlinePadlock.pdf</key>
+		<data>
+		E/GZHeIUpn0hBYxI+Mm39KTKFTw=
+		</data>
+		<key>Resources/PowerlineSolidLeftArrow.pdf</key>
+		<data>
+		yEgo03ZxpJ4KlUCAc9kj8Ctkhvc=
+		</data>
+		<key>Resources/PowerlineSolidRightArrow.pdf</key>
+		<data>
+		UXYCfCKvPC0Kz5ooxf7+kGfMt5Y=
+		</data>
+		<key>Resources/PowerlineVersionControlBranch.pdf</key>
+		<data>
+		ll1AE0LEq5FFgfAFoxndKTi+r5g=
 		</data>
 		<key>Resources/PreferencePanel.nib</key>
 		<data>
-		72RStaidhakqKYAlo0ZaZlayGik=
+		nyJ2Z1CQogPDqBFLZxf2Ri/VhFM=
 		</data>
 		<key>Resources/PreferencePanel.strings</key>
 		<data>
@@ -282,59 +358,67 @@
 		</data>
 		<key>Resources/PrefsAdvanced.tiff</key>
 		<data>
-		C2FbaIqXeQc2nA25qBqrZlQ0RAg=
+		2bihVKbYdNVg1A3ntdi1Glmoll4=
 		</data>
 		<key>Resources/PrefsAppearance.tiff</key>
 		<data>
-		6pxzojKXheW698eI4HHzpMhaI14=
+		aIM9fJPxanwTHPGM+ZlVChyAJd4=
 		</data>
 		<key>Resources/PrefsArrangements.tiff</key>
 		<data>
-		NaNJu/RR6s+UuwhjCi6Uk3TVsLc=
+		7BuLQ/H14adGDMVoUHErOn+7FcI=
 		</data>
 		<key>Resources/PrefsGeneral.tiff</key>
 		<data>
-		Byp/cdNTQIoVB4Oge2WomiCdmbA=
+		ZocdzyoiKgUcRVjBaxIxyKLxcQY=
 		</data>
 		<key>Resources/PrefsKeyboard.tiff</key>
 		<data>
-		wkVRd7WOonMfYLJKl35O3997Scc=
+		qWI+9jY6PvB1jA9dcw6tWRPao/c=
 		</data>
 		<key>Resources/PrefsMouse.tiff</key>
 		<data>
-		jJw7STNCDocTCWxok/hR+gwyyhM=
+		G3e5z7otKug86kFlbTRxy2cRr/4=
 		</data>
 		<key>Resources/PrefsProfile.tiff</key>
 		<data>
-		baS6IdrCia98bJ5Otxb3VE6Q/Ec=
+		7jWSHSHKgKoFuprzF3HJ4+AjILI=
 		</data>
 		<key>Resources/PresetKeyMappings.plist</key>
 		<data>
-		BGAJwAr4H7PsT7P5XcN5ua2ngI8=
+		/qhu8xQjNDB00R0WPyug/RXHXjs=
 		</data>
 		<key>Resources/Previous Mark Touch Bar Icon.tiff</key>
 		<data>
-		a5PWCYJqUpF3IC4XMUDLJTvensE=
+		GM5k/iGxIu921/otdkLGhF7htDU=
 		</data>
 		<key>Resources/ProfilesWindow.nib</key>
 		<data>
-		EiWOxJegSchYNDx4Fh6JXUZCFiA=
+		/hzjeQwFAPR8NM+5FTLs0LXzL8M=
 		</data>
 		<key>Resources/PseudoTerminal.nib</key>
 		<data>
-		gu9xLZ4wYYq/H5IjXaYAyBlQgCw=
+		0z4ZZS/Si5LeUNypOcuFcyMiPvM=
 		</data>
 		<key>Resources/PseudoTerminal.strings</key>
 		<data>
 		PII7kdWJzvyBdaapi4z7UB4LUGk=
 		</data>
+		<key>Resources/PythonLogo.png</key>
+		<data>
+		s+IHRlNk+hyLMqs3dZuZTdl99Bg=
+		</data>
 		<key>Resources/QuestionMarkSign.tiff</key>
 		<data>
-		uxwhZr237okDhWAMak7kYjI9nKY=
+		72rrhgVe5N8p3PPtKg+D1Nnv4eE=
+		</data>
+		<key>Resources/ScriptIcon.tiff</key>
+		<data>
+		bmESjdciyD35ZghtbUFT4sUwxCM=
 		</data>
 		<key>Resources/SearchCursor.tiff</key>
 		<data>
-		6iiBnvtpCCkwRSLPDD2erAl5ZrQ=
+		WuneyfOZUo1+WbKoISgqjohOMQc=
 		</data>
 		<key>Resources/SmartSelectionRules.plist</key>
 		<data>
@@ -342,55 +426,115 @@
 		</data>
 		<key>Resources/SplitPanel.nib</key>
 		<data>
-		t4bHSTdIMrlcMbC5xLPj8V3A0xk=
+		H4oNJk9m3/Jp2XeibOguWtR+wus=
+		</data>
+		<key>Resources/StatusBar.png</key>
+		<data>
+		y/uJlJzftiCEFxkU92ixH0DbSlc=
+		</data>
+		<key>Resources/StatusBarIconAction.tiff</key>
+		<data>
+		7t9vjfos1MYyToZkRRNHUZlDHBc=
+		</data>
+		<key>Resources/StatusBarIconBattery.tiff</key>
+		<data>
+		WkGVRcY2KQTvVZ76fxrbHS1UNXE=
+		</data>
+		<key>Resources/StatusBarIconCPU.tiff</key>
+		<data>
+		Iw5BCEv0NN7UEkkOV0smL7XNzSs=
+		</data>
+		<key>Resources/StatusBarIconCharging.tiff</key>
+		<data>
+		5bzm0Z6x7BRVJOA9Juo78Sb+Jek=
+		</data>
+		<key>Resources/StatusBarIconClock.tiff</key>
+		<data>
+		0XWcaRdqUEhoNSNHhFycYpHnLis=
+		</data>
+		<key>Resources/StatusBarIconComposer.tiff</key>
+		<data>
+		vFizbn5Ko1vznAPq8pso6rVlSy8=
+		</data>
+		<key>Resources/StatusBarIconFolder.tiff</key>
+		<data>
+		ruNHYBWE9is9cwsHRv6E5K5P3sc=
+		</data>
+		<key>Resources/StatusBarIconGitBranch.tiff</key>
+		<data>
+		g8/YbJQ25eYtKwB1qZ32WVBmIxA=
+		</data>
+		<key>Resources/StatusBarIconHost.tiff</key>
+		<data>
+		Z8nftNo3Bzcc0ZjFWFku3Be4w8s=
+		</data>
+		<key>Resources/StatusBarIconJobs.tiff</key>
+		<data>
+		OUkE/82n9jJGf+1LGwx7khayPG0=
+		</data>
+		<key>Resources/StatusBarIconLoupe.tiff</key>
+		<data>
+		PZTKLAZVkbdVBbZllVmtnjTlViE=
+		</data>
+		<key>Resources/StatusBarIconNetwork.tiff</key>
+		<data>
+		srpoMTSO/3GWMBrcQZ42DNAMEMg=
+		</data>
+		<key>Resources/StatusBarIconNoBattery.tiff</key>
+		<data>
+		TfL/XNDOIFy2o/rk1YD9QsMAGdI=
+		</data>
+		<key>Resources/StatusBarIconPaste.tiff</key>
+		<data>
+		Dn+AM5d9vJU0uJcBnrvJyAhIc5k=
+		</data>
+		<key>Resources/StatusBarIconRAM.tiff</key>
+		<data>
+		uDXqHKIcBb0PmcigvuvIvytd/ak=
+		</data>
+		<key>Resources/StatusBarIconUser.tiff</key>
+		<data>
+		d3OthA36YY1kJfEWiHp063bhxwA=
 		</data>
 		<key>Resources/StatusItem.tiff</key>
 		<data>
-		+PE9A570fNTng2LYH7KKke0lHKE=
+		tWpGQIepKc3HSTNGW92TAyygwOY=
 		</data>
 		<key>Resources/StatusItemAlt.tiff</key>
 		<data>
-		RCTyJv7I3yto1NofAaQUBctytHc=
+		PuawYUPcB+krt7TH32qa5fHclro=
+		</data>
+		<key>Resources/StopStatusIcon.tiff</key>
+		<data>
+		Xyu/BmAwpnthYSObQ8uiW3fRB60=
 		</data>
 		<key>Resources/SuppressAllOutput.tiff</key>
 		<data>
-		civjfCSBfOh+YoZK22irwaf/IWY=
+		A+AUi4XChVczzoxAX9EAApYDPoo=
 		</data>
 		<key>Resources/TabClose_Front.tiff</key>
 		<data>
-		kiyJS+SujcQQSrsgdsdNdKI8zNs=
+		/AYk6A6QRE/upz43d9pzM2EXnfo=
 		</data>
 		<key>Resources/TabClose_Front_Pressed.tiff</key>
 		<data>
-		dwO0jyEj16oDZWEs8GGYIKJJ7yU=
+		+nb93OL11vUmJYskXtOUS9aB7yA=
 		</data>
 		<key>Resources/TabClose_Front_Rollover.tiff</key>
 		<data>
-		lENYwn6lYyqLEGDmcPgF1nP70Po=
-		</data>
-		<key>Resources/TabNewMetal.png</key>
-		<data>
-		CpQNChcViH2fB5JRY99dB6+QR18=
-		</data>
-		<key>Resources/TabNewMetalPressed.png</key>
-		<data>
-		g+yW9CXtgFlpGY9s3vMzS6NDKgM=
-		</data>
-		<key>Resources/TabNewMetalRollover.png</key>
-		<data>
-		flrNF8tE8syDoQgjSa7Nbq5wBR8=
+		l0TtCqzG/WFHUKzDnaTcZ91r4z8=
 		</data>
 		<key>Resources/TipCalendar.tiff</key>
 		<data>
-		Hhffby4VG5xwFtkxxOjD/CUw26A=
+		JSFeOh3fsL60qN8Gsd44I4uxy2g=
 		</data>
 		<key>Resources/TmuxDashboard.nib</key>
 		<data>
-		Z9utMghC2URK2JaeqzyrL8W54u4=
+		1af+8L+3m8hpFrseLtQCBrYqihc=
 		</data>
 		<key>Resources/Touch Bar Function Keys.tiff</key>
 		<data>
-		zrTVtCfcJjRso2EK9Rqpvk0vLWQ=
+		PZtAnoSnYibgOhW3BIud3FQouUo=
 		</data>
 		<key>Resources/UKCrashReporter Readme.txt</key>
 		<data>
@@ -398,23 +542,27 @@
 		</data>
 		<key>Resources/UKCrashReporter.nib</key>
 		<data>
-		4S+ebgYF1/lPa1LNKCLU+eyq7Tg=
+		ewUPM2AFDIQkwSQMHqnXdUB2wNA=
 		</data>
 		<key>Resources/UKCrashReporter.strings</key>
 		<data>
 		/NfoajLvk/+X9UsnU6CqloPdkho=
 		</data>
-		<key>Resources/Warning.png</key>
+		<key>Resources/Warning.tiff</key>
 		<data>
-		e40ulP4dbaT0QB5U+oy5K6Z/ADc=
+		sCNL1dt8BYymMFLYpwUAnRTOWtc=
 		</data>
 		<key>Resources/WarningSign.tiff</key>
 		<data>
-		2VVXuqs6qzP09EwBx0bVEgZvAr4=
+		5lKdU+h175kSE830gttWlAGDQWQ=
+		</data>
+		<key>Resources/YosemiteAddTab.tiff</key>
+		<data>
+		y/YLJXoU0O9iNvwHm505nCIKH0k=
 		</data>
 		<key>Resources/Zoomed.tiff</key>
 		<data>
-		+qQRJbfzIJ4ni8aDeh4D52erRkU=
+		3cpihtEKSujaLqI45H5D+ms4CKk=
 		</data>
 		<key>Resources/bell.png</key>
 		<data>
@@ -430,7 +578,7 @@
 		</data>
 		<key>Resources/closebutton.tiff</key>
 		<data>
-		IJHVN/6Yl+TxC4JjbcvECn9Y8h4=
+		AowdhUy2nfhkEhEu9unfo7tm4iY=
 		</data>
 		<key>Resources/config.png</key>
 		<data>
@@ -442,119 +590,431 @@
 		</data>
 		<key>Resources/dead.tiff</key>
 		<data>
-		kMagmTqsZCxtOsgkaxeFFuEhtqM=
+		Q3CuPSTSqnMbonFwYTYzYCZO4DA=
 		</data>
 		<key>Resources/default.metallib</key>
 		<data>
-		KzCz6lzQ1XkYoMQNE6AmwXK6vco=
+		Zh/ZKA6bC+R1bfny88Jluoo8M4s=
 		</data>
 		<key>Resources/download.tiff</key>
 		<data>
-		cerZJGFVdsqiomEwAIuIjAHizkg=
+		xkiQvwU/BbUT5o1Cz/glQRyUcD8=
 		</data>
 		<key>Resources/dsa_pub.pem</key>
 		<data>
 		x5L/gTGo5fVg8Cm5C37zpSUSbRQ=
 		</data>
+		<key>Resources/git.sb</key>
+		<data>
+		8zhetWphtMFVQTR3XguXm2As1LI=
+		</data>
+		<key>Resources/gitdirty.tiff</key>
+		<data>
+		RR7KUskYrjUyIr01nhiIOOJY1jA=
+		</data>
+		<key>Resources/gitdown.tiff</key>
+		<data>
+		rSlkzaJ+7Keo19i0gjpd8aeBJtA=
+		</data>
+		<key>Resources/gitup.tiff</key>
+		<data>
+		TUzWSbjOfUcJb98uNSd60GAzAk0=
+		</data>
+		<key>Resources/graphic_atom.tiff</key>
+		<data>
+		JVCq8NLbcXsZ2LQzjBdin4Sy6hg=
+		</data>
+		<key>Resources/graphic_bower.tiff</key>
+		<data>
+		JdCivBBsE3XXoMbhoXOecEx4w5k=
+		</data>
+		<key>Resources/graphic_bq.tiff</key>
+		<data>
+		g1ys1bmYFEmUFQRyf+H7srkwUdQ=
+		</data>
+		<key>Resources/graphic_bullhorn.tiff</key>
+		<data>
+		HQWw5MDzGP1V3V5sWJyxPjTXUTY=
+		</data>
+		<key>Resources/graphic_clojure.tiff</key>
+		<data>
+		InfvKp6A+yQGRIa2O8tG18n4Erk=
+		</data>
+		<key>Resources/graphic_code.tiff</key>
+		<data>
+		8WHrRUtkJZfqEwF2ZKxWxcFQVt0=
+		</data>
+		<key>Resources/graphic_coffee.tiff</key>
+		<data>
+		2RDGmJurFfa3g+KVngBrfD3YyXk=
+		</data>
+		<key>Resources/graphic_colors.json</key>
+		<data>
+		gm+qnMwv4z6jarJMbmfT2I2dHGA=
+		</data>
+		<key>Resources/graphic_compile.tiff</key>
+		<data>
+		VvJUTCyViut436qJ1hdTqldqPTQ=
+		</data>
+		<key>Resources/graphic_composer.tiff</key>
+		<data>
+		X1dpYS508hPecrJiB7AQFfjBv4Q=
+		</data>
+		<key>Resources/graphic_curl.tiff</key>
+		<data>
+		tYWFi434eh2lxEQVS8LJ0QT+33w=
+		</data>
+		<key>Resources/graphic_database.tiff</key>
+		<data>
+		sM8ULCkXRPcgFrj7iO303sw163c=
+		</data>
+		<key>Resources/graphic_docker.tiff</key>
+		<data>
+		b+aMF5nRHBX7EyIBGCQdOYujXt0=
+		</data>
+		<key>Resources/graphic_ethereum.tiff</key>
+		<data>
+		nnwLT9/76Na2eR0SxbUPMGLu/wE=
+		</data>
+		<key>Resources/graphic_git.tiff</key>
+		<data>
+		D6vG88rHAcFC70UruFGdQ36Udzk=
+		</data>
+		<key>Resources/graphic_gulp.png</key>
+		<data>
+		9Iu3EK8JgXQdQ42kpHscpcFuxxo=
+		</data>
+		<key>Resources/graphic_heroku@2x.png</key>
+		<data>
+		mj9zEgXlbvqYO4g5HaiUVjsrXkI=
+		</data>
+		<key>Resources/graphic_http.tiff</key>
+		<data>
+		p6D4RadJDi1iJ0+wqX3fxGnZ1lc=
+		</data>
+		<key>Resources/graphic_icons.json</key>
+		<data>
+		bAtYiTGKKp0IrLWtMCv7MU0euOo=
+		</data>
+		<key>Resources/graphic_java.tiff</key>
+		<data>
+		j5HJPAOJfXeBKbsx0Zst6CgUYqc=
+		</data>
+		<key>Resources/graphic_less.tiff</key>
+		<data>
+		OuzQ5iZcO0JMvVISyfEVKRFp/UM=
+		</data>
+		<key>Resources/graphic_micro.tiff</key>
+		<data>
+		Re/TA4j9YNegpFYcjyuI1mfRfpk=
+		</data>
+		<key>Resources/graphic_monitor.tiff</key>
+		<data>
+		wrDPFmgCLj6RsKJgQV6fnpyAnHE=
+		</data>
+		<key>Resources/graphic_mysql.tiff</key>
+		<data>
+		H3QXK+iJry3Od6edkjUyE53ygbM=
+		</data>
+		<key>Resources/graphic_nano.tiff</key>
+		<data>
+		3oHtAcNBXzeZzZzYfekY2EScMAc=
+		</data>
+		<key>Resources/graphic_nginx.tiff</key>
+		<data>
+		6Do6fIAafDzwMCBtuUcZ2fxBO+0=
+		</data>
+		<key>Resources/graphic_nodejs.tiff</key>
+		<data>
+		4rOa7MHuReozx5PIx6lrxiQPHFE=
+		</data>
+		<key>Resources/graphic_npm.tiff</key>
+		<data>
+		dYsYwmj0A49yYh7fBjQOGLs5m2I=
+		</data>
+		<key>Resources/graphic_perl.tiff</key>
+		<data>
+		+d7nlYvyKZ68fYnmFhQLuT1vR4g=
+		</data>
+		<key>Resources/graphic_php.tiff</key>
+		<data>
+		FM9QQJArVqwHRXK6d12jShjNz9c=
+		</data>
+		<key>Resources/graphic_psql.tiff</key>
+		<data>
+		2xbLMvHgJjMJKv2jKs7osd+/ADY=
+		</data>
+		<key>Resources/graphic_python.tiff</key>
+		<data>
+		uaL9ThyBxtQhMqk1DXZaeSvqosk=
+		</data>
+		<key>Resources/graphic_rails.tiff</key>
+		<data>
+		V8T0XkwOI/mEBEQt6x0pldZZ9N8=
+		</data>
+		<key>Resources/graphic_read.tiff</key>
+		<data>
+		l2Vdc5bxGquqiT5LrM2bvIWLs74=
+		</data>
+		<key>Resources/graphic_ruby.tiff</key>
+		<data>
+		u4+TyUoyMmtuP1chSWXYhdE0TFw=
+		</data>
+		<key>Resources/graphic_search.tiff</key>
+		<data>
+		dQqLLDuwl/hCzWLgMpPdFk0mHT8=
+		</data>
+		<key>Resources/graphic_shell.tiff</key>
+		<data>
+		6WMvrSohC7mrAj8/ET9tP2pxAXU=
+		</data>
+		<key>Resources/graphic_vim.tiff</key>
+		<data>
+		pXr2/X+bCmasOmFORAJ+szJpYUc=
+		</data>
+		<key>Resources/graphic_yarn.tiff</key>
+		<data>
+		7m5VFOAkUTK4WLtSUcoeZJ/OW9U=
+		</data>
+		<key>Resources/graphic_yo.tiff</key>
+		<data>
+		HB7067ErhTVQQgW8uSt3NvzTm3A=
+		</data>
+		<key>Resources/graphic_zip.tiff</key>
+		<data>
+		ku9klrdVKlVrhFRsWw1lFZIQyx0=
+		</data>
 		<key>Resources/iTerm.strings</key>
 		<data>
-		F6NvFJQuUaTPIFeF9ED6jtjhiG8=
+		UxA36gFw4tFdGFWmtffPXbIhMlI=
 		</data>
 		<key>Resources/iTerm2.sdef</key>
 		<data>
-		fidae4aKl5z/2eYp+RmcZNnrJK0=
+		VjyjTYIGqjwXoIGWWK/TkKAlq8Y=
+		</data>
+		<key>Resources/iTerm2Script.icns</key>
+		<data>
+		X4EMTgEZjNA1qbpSfeVx2rrysww=
 		</data>
 		<key>Resources/iTermAdvancedGPUSettingsWindowController.nib</key>
 		<data>
-		3invi56of3xPV3Vs/3CrUMfBCOQ=
+		zJvnVZKL63PleD2kkQVQ00OVqw8=
+		</data>
+		<key>Resources/iTermBadgeConfigurationWindowController.nib</key>
+		<data>
+		qyZX1rsP6PDT+jV6WJlASPk3Poc=
 		</data>
 		<key>Resources/iTermBuildingScriptWindowController.nib</key>
 		<data>
-		FRRnJbX1nLFWlZlfmYvKUA6c8XA=
+		e6aQiSR7y7SN1NiwexUCOfZhBeQ=
+		</data>
+		<key>Resources/iTermDependencyEditorWindowController.nib</key>
+		<data>
+		BcLfWekThNod97Mzpr+oQilccHM=
 		</data>
 		<key>Resources/iTermEditKeyActionWindowController.nib</key>
 		<data>
-		q5Z8sJeqInwpLxlcfE4p7tDi2Ao=
+		5hDJewJhjpGkNNihXY6j8za47Eg=
 		</data>
 		<key>Resources/iTermHelpMessageViewController.nib</key>
 		<data>
-		ID1Ezsg7CsbFsusc00IR4ZQaBYA=
+		tRICDta2Wsz+HpX2evbtOyk1z4Q=
 		</data>
 		<key>Resources/iTermHotkeyPreferencesWindowController.nib</key>
 		<data>
-		ixIU2yArHAuYGWH2KHAJa7Rwt7c=
+		HMvffALnjD3OpX5GSp8oHWEssg4=
+		</data>
+		<key>Resources/iTermJobTreeViewController.nib</key>
+		<data>
+		Qyt5cTiEAbvy6n9ZNqrINoWpXvQ=
 		</data>
 		<key>Resources/iTermKeyMapping.nib</key>
 		<data>
-		7dG92+CdPwkyYQB4So4ALrjrPJ0=
+		QXCEcyMl5h9UrS7/PX41eoEVTG0=
+		</data>
+		<key>Resources/iTermMiniSearchFieldViewController.nib</key>
+		<data>
+		3ew3Nb39MkBG86fJHvtLgh8JF8Q=
+		</data>
+		<key>Resources/iTermOnboardingWindowController.nib</key>
+		<data>
+		OC2CsY7O2+2+Kp4DrdYK0riRydY=
 		</data>
 		<key>Resources/iTermOpenQuicklyWindowController.nib</key>
 		<data>
-		1YMizLvbssy8EZMHzraFHR6X4dc=
+		4GeSmDTYbzq1a5EWgkBh6x5Lyas=
 		</data>
 		<key>Resources/iTermOptionalComponentDownloadWindowController.nib</key>
 		<data>
-		NI8GSz58C1O168dwwhrvRadG6jk=
+		2PqjYwGCpUMCQiIkNxBYuHnJY2I=
 		</data>
-		<key>Resources/iTermPasswordManager.nib</key>
+		<key>Resources/iTermParameterPanelWindowController.nib</key>
 		<data>
-		HPaDErWWjaud5Q5c2Ig+ol8IYng=
+		hGuF83bUUOVGKXBbWstm22LiP/c=
+		</data>
+		<key>Resources/iTermPasswordManager.nib/keyedobjects-101400.nib</key>
+		<data>
+		rHxuyOaCnMNq1Wr8H09m3Kn8s4k=
+		</data>
+		<key>Resources/iTermPasswordManager.nib/keyedobjects.nib</key>
+		<data>
+		pxYqlxWcKP27dYRi0shm24xgEpU=
 		</data>
 		<key>Resources/iTermPasteSpecialViewController.nib</key>
 		<data>
-		lMBPuGzwVpxdhc7Cgqr7zEVXnO4=
+		TOJdultF/1TtmZ6ywb+OSeeiWDQ=
 		</data>
 		<key>Resources/iTermPasteSpecialWindow.nib</key>
 		<data>
-		yDsYUdgoWYZS6cGcvfsucSv3nmk=
+		k+/2ZTshnXqZ4ehNX7iQ+8TWb7k=
+		</data>
+		<key>Resources/iTermPreferencesSearchEngineResultsWindowController.nib/keyedobjects-101400.nib</key>
+		<data>
+		wBUHwcHX9JyMBB/cmZbHdfddOpg=
+		</data>
+		<key>Resources/iTermPreferencesSearchEngineResultsWindowController.nib/keyedobjects.nib</key>
+		<data>
+		cUi50tPgRTyol/ShFl+ivUIv4x8=
 		</data>
 		<key>Resources/iTermPrintAccessoryViewController.nib</key>
 		<data>
-		zYnipmtxJxdaGWGTb1ubM6sjzAo=
+		GFfvlMbxA8mN7vxSlbI+HaPh+Y8=
+		</data>
+		<key>Resources/iTermRecordingIcon.icns</key>
+		<data>
+		9AKkLYS1cbeE+WifEpHKFM495DI=
+		</data>
+		<key>Resources/iTermSavePanelFileFormatAccessory.nib</key>
+		<data>
+		VISi4XDJHc4gINZYyf8IoBFKG9E=
 		</data>
 		<key>Resources/iTermScriptConsole.nib</key>
 		<data>
-		T/nhTW01Fn4yCvs5x2xRXDQbO+o=
+		W2rsy2667GJxxEcz09hmNLnYRgg=
+		</data>
+		<key>Resources/iTermScriptInspector.nib</key>
+		<data>
+		CsCXAJJxd4VYc7jAmQDnFvzhM/E=
 		</data>
 		<key>Resources/iTermScriptTemplatePickerWindowController.nib</key>
 		<data>
-		9PnXkD1OEpdGNi9/bDgbA0mLYrQ=
+		5ZsNZeHFjDnZQl1KoUQy6mB8rHY=
+		</data>
+		<key>Resources/iTermShellIntegrationWindowController.nib/keyedobjects-101400.nib</key>
+		<data>
+		IvkkQKRH9L7tPPzch3hKn8ntNS8=
+		</data>
+		<key>Resources/iTermShellIntegrationWindowController.nib/keyedobjects.nib</key>
+		<data>
+		eWJFi4bxN/6barbOVxanTZbRN2w=
+		</data>
+		<key>Resources/iTermStatusBarKnobCheckboxViewController.nib</key>
+		<data>
+		dZsZOF1QI/UckaRJEIDJN8FODr8=
+		</data>
+		<key>Resources/iTermStatusBarKnobColorViewController.nib</key>
+		<data>
+		NicwoheZVQgDM3JS7BDiBRB8NOw=
+		</data>
+		<key>Resources/iTermStatusBarKnobNumericViewController.nib</key>
+		<data>
+		FiR344MZ4xMbrNeM1odD0Y/aKq8=
+		</data>
+		<key>Resources/iTermStatusBarKnobTextViewController.nib</key>
+		<data>
+		XKrGYmvLoxQETzVsXb6rx6NKHF0=
+		</data>
+		<key>Resources/iTermStatusBarLargeComposerViewController.nib</key>
+		<data>
+		zGAbILDw3n7w8tawHBun9dwYF/s=
+		</data>
+		<key>Resources/iTermStatusBarSetupCollectionViewItem.nib</key>
+		<data>
+		tmdysKeuYJ9xs7kqvQs4dic2rGM=
+		</data>
+		<key>Resources/iTermStatusBarSetupConfigureComponentWindowController.nib</key>
+		<data>
+		SpfCIDPB1uOfEiF7PmM21vYnsyo=
+		</data>
+		<key>Resources/iTermStatusBarSetupViewController.nib</key>
+		<data>
+		u2kehTJh8rzg/iO5HjybdUx3O5g=
+		</data>
+		<key>Resources/iTermTextPopoverViewController.nib</key>
+		<data>
+		/7A2abvK/enFax2Kj5lgY1oBSxc=
 		</data>
 		<key>Resources/iTermTipCardViewController.nib</key>
 		<data>
-		8MXajk3OcCT2hL54nEzWR0xq7Oo=
+		xK80SvOVXtOc86kof8BIr0q1rhs=
 		</data>
 		<key>Resources/iTermTipWindowController.nib</key>
 		<data>
-		wfdBAH82+XkiOAU2mS5mMKSyLXc=
+		osu4ksXy8LK0EjLMarWtexUOWHU=
 		</data>
 		<key>Resources/iTermWindowShortcutAccessoryView.nib</key>
 		<data>
-		msxZLYI/F4JHb1/h6hIcAXSeauc=
+		61Azn95+ElL2M3hcML/JFJy979s=
 		</data>
-		<key>Resources/image_decoder</key>
+		<key>Resources/iTermsStatusBarComposerViewController.nib</key>
 		<data>
-		jFWxos4UCyJ+UXYZl1tkWKy4+aI=
+		tWH55pneFRYO3690HPmWBVHeF/w=
 		</data>
 		<key>Resources/image_decoder.sb</key>
 		<data>
-		YebcY2EM6OJReF1ugdOvHpNT/zg=
+		O8RRinhZkgSsPbA1NWuF8T8ys2o=
 		</data>
 		<key>Resources/important.tiff</key>
 		<data>
-		ItR77HFbkC8aCETO16L5ZW7QmeM=
+		2djIlo9K4rUctffoQnzJsT+4USU=
 		</data>
 		<key>Resources/it2_api_wrapper.sh</key>
 		<data>
-		418JvXquI8OAHzZ4qa2Edr3ve7o=
+		9/+bXY81UBelhfEYv9irDDtO0Zo=
+		</data>
+		<key>Resources/it2run</key>
+		<data>
+		9TOW5gw9+M2BtGi+AWITrQoI5pk=
+		</data>
+		<key>Resources/iterm2Invoke.js</key>
+		<data>
+		/0RJk8bafAcaIQYp0TeqPOplfMs=
+		</data>
+		<key>Resources/iterm2_git_poll.sh</key>
+		<data>
+		sHXlGg0VuirmeTLMsCVwvMqPQuM=
+		</data>
+		<key>Resources/iterm2_git_wrapper.sh</key>
+		<data>
+		qrnfqs8jqyEMMrTOZmHOzqEdivQ=
+		</data>
+		<key>Resources/iterm2_shell_integration.bash</key>
+		<data>
+		zs5WTRGP4fZASewKfRdhVXtEa3M=
+		</data>
+		<key>Resources/iterm2_shell_integration.fish</key>
+		<data>
+		qlkRHdy8xwe9vaT7sAD3AliHtbQ=
+		</data>
+		<key>Resources/iterm2_shell_integration.tcsh</key>
+		<data>
+		3yuU1zKWd5MerngRO3e0jXYgUwk=
+		</data>
+		<key>Resources/iterm2_shell_integration.zsh</key>
+		<data>
+		czPoHvGulgtsE2BQ6xwD+I7vHog=
 		</data>
 		<key>Resources/key.tiff</key>
 		<data>
-		QuKGormvwR9h9l9BnPJS5pWLLHI=
+		T5VAIVaZE4ERqQ9wjwiPEMCdFco=
+		</data>
+		<key>Resources/keyclick.m4a</key>
+		<data>
+		VlnoZ6tLEibL6ESn4M899V9biiQ=
 		</data>
 		<key>Resources/new-tab.tiff</key>
 		<data>
-		YJiVTMVw/3eBRsurogdeaSYiKpc=
+		CXhoNstHYKTnWqwRRb1xvXfAW+0=
 		</data>
 		<key>Resources/newwin.png</key>
 		<data>
@@ -562,19 +1022,19 @@
 		</data>
 		<key>Resources/overflowImage.tiff</key>
 		<data>
-		ifX3nae744Si2N6si1gK9ZLQ0vM=
+		ELXhDv/29emO1itdye9hnfvs7Fo=
 		</data>
 		<key>Resources/overflowImagePressed.tiff</key>
 		<data>
-		6fs9O3vTWc1KRUo/NiAAGrIi0OU=
+		/On7dOz2LuW4sFAN94b/iS34yoA=
 		</data>
 		<key>Resources/repl_banner.txt</key>
 		<data>
-		kRbD1uQrZ3pdX1UfUU1DrO1kEkg=
+		QmdtFbhkrhdKT8j+rK8HHBFTsVk=
 		</data>
 		<key>Resources/restore-arrangement.tiff</key>
 		<data>
-		bKk41rOtcSKkZhtniFffF5h4cSc=
+		g813COGDw3RTaXLBUR5GSviZeLg=
 		</data>
 		<key>Resources/rsa_pub.pem</key>
 		<data>
@@ -582,19 +1042,27 @@
 		</data>
 		<key>Resources/template_basic_daemon.py</key>
 		<data>
-		9FbZMkFKnc+hNqAAeCq6tv7SyrU=
+		A+U1AqpC2NkWaGCDnUZXOTp8eZo=
 		</data>
 		<key>Resources/template_basic_simple.py</key>
 		<data>
-		lq4KZqIrQpIsEaILNQrHMnfbFaQ=
+		RhtM6rImGAVb/ClOf7w6vwaX9pc=
 		</data>
 		<key>Resources/template_pyenv_daemon.py</key>
 		<data>
-		85s5RaS8F7u2z6pfKb18aa2v3YM=
+		2VRglMgaKj7Vj/gGRNJPJAHsTBs=
 		</data>
 		<key>Resources/template_pyenv_simple.py</key>
 		<data>
-		UpIoYsA5swk3qt9BOHrq8gHBBno=
+		PktwFfe1vZ9mWWDk7zTYELzkQww=
+		</data>
+		<key>Resources/utilities-manifest.txt</key>
+		<data>
+		+E+ItnTKUNEF9TaizZ+cAos66uU=
+		</data>
+		<key>Resources/utilities.tgz</key>
+		<data>
+		c+3PxDrgDzzowFVm5sAg/rw0uV8=
 		</data>
 		<key>Resources/wrap_to_bottom.png</key>
 		<data>
@@ -607,45 +1075,225 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Frameworks/BetterFontPicker.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			9fqQq247FvrMyvDDb9+V1AOYnpA=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.iterm2.BetterFontPicker" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
 		<key>Frameworks/ColorPicker.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Gk5mR2NQOjP8O6rYUkb10a0Nmzg=
+			Zru3t+wW3ILOOdNnVRwZaEcvEgo=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.googlecode.iterm2.ColorPicker" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/CoreParse.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			J2qyeZYMmUNCl0oRirndv/pTDbQ=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.inthebeginninggames.CoreParse" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
 		</dict>
 		<key>Frameworks/NMSSH.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			EsQ/rcbi7/ubDEs0RNriJQ8+LzM=
+			wbeF6m2jgLdOndiDJJaVQmLSFzo=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "se.ninemuses.NMSSH" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/SearchableComboListView.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wVsWHrMsfJQhwbpwbcQsbKkQHXo=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.iterm2.SearchableComboListView" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
 		</dict>
 		<key>Frameworks/Sparkle.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Y2vWOwRn+j4eeD+jdNkL5DlfS7M=
+			rnA4bxnD/XAMP1opcxgbHcssPXo=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.sparkle-project.Sparkle" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftAppKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			szg5b73sGVMCmVIXtiEQXr6YMsI=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftAppKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			NMSzbWMMpWgRPlFry/OdV1kRh8U=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCore" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreData.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			mRVuxIn3d/RkhOGyiaZVRJjQFKA=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreData" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			eBBphlL3QYYNvj5kzp4kXcRxY0c=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			XlDGmgHT46kUncz4c52bjfvBmn4=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreGraphics" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			B1/AXRoy69eX6xa8+u7UeEWfON0=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftCoreImage" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			GbcvuhA4EoAmHjTcjcgqpPGsBzk=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftDarwin" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hfkX7tJPPYWFFRQ/qZrytQDKeDI=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftDispatch" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yyG5NEJjrKybRzFdGfKI4xy3/Yg=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftFoundation" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftIOKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			OQCPnQ1rrPwoiZ7GmpHxMlw2ImY=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftIOKit" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftMetal.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			C9CU1tB6vdk5R2Bw74/BF3+uDzo=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftMetal" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dd7GoX6wR3lQrJKmICJhX+w8Jb0=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftObjectiveC" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftQuartzCore.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			tY9C83aG/iuzNIJR982VB9w3oCs=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftQuartzCore" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftXPC.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			hybrP5IWVPqfHfnb8qO1XyWtM8c=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftXPC" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>Frameworks/libswiftos.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yvLrNS+io7bJ2Ue0jU1vbiGkJuo=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.apple.dt.runtime.swiftos" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>MacOS/iTermServer</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			kZvJULSRQQ4UG5mMi2Uv/3+D6SA=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier iTermServer and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
+		</dict>
+		<key>MacOS/image_decoder</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			l+EWauTR9KZlED11/XJfmXn7ldA=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "image_decoder" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
 		</dict>
 		<key>Resources/AboutWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TtDVauBh8xxWP+9AvwfeyOq6GmtkEayRwYZDOnSqhM8=
+			aLBpUb18+yPU9S1fncVm839rNmFwEj6YZchfplBObRo=
 			</data>
 		</dict>
 		<key>Resources/Add Mark Touch Bar Icon.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1OTbCI/FmHdNFD09FgWQRzpXx0c4xHeRq5ffeoknDmA=
+			CARQqWKbClG/GChWoRfH2g3nqjcTikFxhtxtv8Qsd6s=
 			</data>
 		</dict>
 		<key>Resources/AddressBook.strings</key>
@@ -659,49 +1307,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JtvKCLBSflUmEtj6V3tXINMZGvDPNPs5eepFszCsxFE=
+			atEhW7YgndzyGbWL9Mc8dMi1q/h/ZGjwIL2cEL8nmNg=
 			</data>
 		</dict>
 		<key>Resources/Alert.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2AbqzmXeypgqKU1N8N8TjLQYgSn93pRBQtd5YdbiBdw=
+			q9uRLoOXmUkC7IMSKwx4ZEma3reRAPkb0IPuV2Kgxlw=
 			</data>
 		</dict>
 		<key>Resources/AppIcon.icns</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s5SGPTLaz4mawU7K1+Zg59mFer5MKDARf9tShrS4vKU=
+			IlLOjF1yLhG2pIitabQ7o2XhMwQzOcnwwFCJblvrZXE=
 			</data>
 		</dict>
 		<key>Resources/Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eN6w6I0itHD3EI/u09FclcntHSANREqYnaHnLcq4wgk=
+			IHGUxa/zREe4cWyD2Q6l/ANQMVjs2nlKq2E5oFPidq8=
 			</data>
 		</dict>
 		<key>Resources/Autocomplete.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			icqNCpAE8Ifebti9s2pq2QKdhmORVQw858I8Eb8qwN4=
+			wUBYTal1DScAT1NVNZhCpXl7TVE0lAB+cbv7UaR6jdg=
 			</data>
 		</dict>
 		<key>Resources/BackgroundStripes.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iCJlfaYYwrkaucOaXEtfJN1maP7ZV46f/2KMg3aVrPc=
+			zEerHR3Zh9diA98E0fqJ3UxKdzc2wDem8cV7IMH6YmA=
 			</data>
 		</dict>
 		<key>Resources/BigArrow.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Woqj7cxOau0nAzDcrl11AePbH/IZlC/7LWZ2qaexxY=
+			ufXLNLsMp/EyZxxT0DqmPEexZ8/C0qZE75rRV6qERIA=
 			</data>
 		</dict>
 		<key>Resources/BroadcastInput.png</key>
@@ -715,56 +1363,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lue+RtTcYwjUv/3FJ0ZMCuQUAH8jNcmFphFIXbrGBus=
+			Z6eOPjOvtEQa72j4XEOFBkbyaHsZ02J1IBn/mCKb0I0=
 			</data>
 		</dict>
 		<key>Resources/BulkCopyProfilePreferences.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nI7NVO1qJjjAt9rxxOevF5zIiEAy4OIlgbfECSTJE2I=
+			nBoYmsgwfcyNaT78fVBgVaJISWud2XRFYgUfxJXpUSg=
 			</data>
 		</dict>
 		<key>Resources/ChangeProfile.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4xhb/fO57nbI2+9YZ7IWV8+3HZVZuNFSS0AJsjiKscM=
+			XGYkLaxYAfKjE1i+qY4owURPsPW35vfovg3++ZicPq4=
 			</data>
 		</dict>
 		<key>Resources/CheckMark.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			juOgHEu3ims0t7MIY9e7dntc9OXeCAKJY1EGnj4G8h8=
+			DYSEFFPYTKVwjhJOIK9jH1XgBxzV78vSCVEJ2j4u59s=
 			</data>
 		</dict>
 		<key>Resources/ChevronDown.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zAMspWRZEOcGYCTRPnBXVkIEOnBSClDLDhG2mOAG008=
+			ZDTHvNOz1JlLJhle9z5E5cDKqWBRRegKGPtGvGMFbv8=
 			</data>
 		</dict>
 		<key>Resources/Color Preset Touch Bar Icon.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pxyLhL3VomWAplNtFk53XAdSRiyg10alZDR3NWwBaGg=
+			DbWiagMpeIigwq935u3+ydaFZlzUlNEeWsgN7NiwTsM=
 			</data>
 		</dict>
 		<key>Resources/ColorPresets.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			16JJr+dd3jOHGr8Erk6cGv0IjuvJiSLIv8RCvc8aC1Y=
+			F5qaVjNf63OPyGMKgvnKGnFhRFsQRK5EpxiUljsrghc=
 			</data>
 		</dict>
 		<key>Resources/CommandHistoryPopup.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n54V+roXA9wZnGl+oMlYo70DqMGFPhm+F6JmFptRfPk=
+			208WX8Murr6mhVE6Tqgsck8jdRECwQdXa3rD1Lc3Zt8=
+			</data>
+		</dict>
+		<key>Resources/CompactMinimalWindowScreenshot.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4/JtNZhAgztEqp88WlM89fP2X0Rz15NfhNYrmLpZO2Y=
 			</data>
 		</dict>
 		<key>Resources/Coprocess.png</key>
@@ -778,14 +1433,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ia1zL3Wh2xCCm+lgupoWxzkreN+exBDSNiYhTaz42I0=
+			0/oW9hDLCwnf/06irSTyvo3Qvc3gRFRVCUpX2IDf5Vs=
+			</data>
+		</dict>
+		<key>Resources/CustomizableTitles.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rsMFx5IliXi2oe9IRZRSu692IQDuBWSAFOHZ1MJMWNo=
 			</data>
 		</dict>
 		<key>Resources/DeadForDarkTheme.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			goGq4eH60x5RwJQ2bgOvLQUSIpUpbkH2ptZhtonFC64=
+			6iZIMUOjAOQN8JBgdLGsBvrkaizJYvl97iGuau1KTJs=
 			</data>
 		</dict>
 		<key>Resources/DefaultBookmark.plist</key>
@@ -813,21 +1475,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hTie68dgjBsxJrn9DZmI6nX+KoAGovGyEuYjGgcPWPI=
+			jTjvV/1cRJdc5KKu4dRo2j4iANy4uMVId1F5GSWPX28=
 			</data>
 		</dict>
 		<key>Resources/DisableTips.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9+p4OD509UA0ByI6srRq2MEwq7WE3boDlXJQUvTwc6g=
+			3z+2kf1F7D+pC1FDiL4uM5LEgvyEefwtdRDRa6KdOFQ=
 			</data>
 		</dict>
 		<key>Resources/Dismiss.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f643bDakgdhaahWqZSMtSbeaSmD3QKUzbIvxIBH2cd0=
+			x3GZoDYBWaJiKeBWvCsXg2XdPmdELeIEqeZENEzy2x8=
 			</data>
 		</dict>
 		<key>Resources/EncodingsWithLowerCase.plist</key>
@@ -841,14 +1503,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T9KVy3Gz/7Bex1CiBagRhYRt2/uv+NSCa4w2ROiK2N8=
+			dDxmrVCUMO6m/QkDeHl6pwbiB6Sxg1HdAmYgFwBzZck=
 			</data>
 		</dict>
 		<key>Resources/EraseDarkBackground.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hWPs5SlBtAKhvIi7QgmZIWmBKWPM0EqCF2cgTZWaAj0=
+			Ki+uHzlMsdl4Fk0fiQs74cWM5iJYI4z53sfOme+Pqss=
 			</data>
 		</dict>
 		<key>Resources/FindCursorCell1.png</key>
@@ -883,63 +1545,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3QQmw/sgBxzWgCHKOdbd9rtku4j9DLqZLcue1s/hC14=
+			Vi9EYoZfsCeqrvvsDxKc54zlRkqbwD8BeZ1MNKcBO3g=
 			</data>
 		</dict>
 		<key>Resources/GlobalSearch.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sSv+7VRAjKI8NFCovNRFhUqBX+9hxlYUyEFRMcLbhXE=
+			cBShB5yCSwmOUK4lEHIhLvi1yp/jgnoUBZBTr5YoafY=
+			</data>
+		</dict>
+		<key>Resources/GoBack.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jCoSxFinSGLUwdGnYNt9CTPzZB56quZFhGXANYLBiE0=
+			</data>
+		</dict>
+		<key>Resources/GoForward.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MQRtyGDxcQAiV/0ROtcH13IpBamDbMa0Mhpo6jgAbro=
 			</data>
 		</dict>
 		<key>Resources/Hamburger.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3yrim7IZISg0rqhEiFcXPuqm/snB5LuCDFfOj0b83Jk=
+			8ko56+ATKDJBQW5MOAg6xBsu5L3XHMO9ir71Q6wfR/s=
 			</data>
 		</dict>
 		<key>Resources/IBarCursor.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MYblKth9nf/ZuIbpGlct8aUFlJsxN14Uv671XM2TmYg=
+			LfBhUIg+GTJjWccJoe2xwgY4k0/AcRiYflDlHtbKqEM=
 			</data>
 		</dict>
 		<key>Resources/IBarCursorXMR.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dHcsik0kKkLTbnNoWo0O8I+f3QBxZnl307GvMZ2C4SI=
+			OEN6wfI6M/L6PEoDng9jAo/2/FCgySgIzGZfbL4jWSY=
 			</data>
 		</dict>
 		<key>Resources/Info.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kUof1WQFHMtMDMAltAC/NwyAYe4XVQhHw0dlVVGvXqE=
+			OTBsns+xLQCVlbWGsunbqRvJmey8DHBQWiarU1/TKPc=
 			</data>
 		</dict>
-		<key>Resources/InstantReplay.nib</key>
+		<key>Resources/InstantReplay.nib/keyedobjects-101400.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bia72GvTsuSJPN8aJJshUEAQWgwibz1QwaKjvHESEGQ=
+			iX4D5Sd1D11Z74SvHXmRKLJ8Y5gJC6TEdEE2owYzkwA=
+			</data>
+		</dict>
+		<key>Resources/InstantReplay.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iPIapi8S2J2uvHjbovOWlkTxYEqsWvJrNfmoIOQIXoA=
+			</data>
+		</dict>
+		<key>Resources/InternetAccessPolicy.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BfpteoEhcAdapbyopU7KDrg/i3anCchiY8k7VjKf018=
 			</data>
 		</dict>
 		<key>Resources/Later.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VS59O8oB5sv2eaJFl053VID8rQS4AgZ5zOZ4v7rF3Ts=
+			jVr3vAEUEpQJaWovzvFMtE9co6ljUH9XnmDzknS4SBU=
 			</data>
 		</dict>
 		<key>Resources/Licenses.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gu2MBIkU4nUNgKacKrppv6BG6qzN2H8k+NT5zkYOA74=
+			BhQp+Ppy8AHR0B3fMhYmNcYv7lEXglpD0terUxou/i8=
 			</data>
 		</dict>
 		<key>Resources/LogoFrame.png</key>
@@ -960,14 +1650,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1nKM08v7T0KDe1y4rYj/scVosuFkCpXnsVn0kA4306A=
+			VpbPK60qvRm3yu6xJCxnNi6lzJUt59I9tE2zLWXYNAg=
 			</data>
 		</dict>
 		<key>Resources/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d75HY5PgUbgYyD/C91JBa5VoAkQMwLzDpUoRiasp9yU=
+			SJ3CLPosgU+jwb455QhDhW9jFeE7xYG4ivIrKO8mqeQ=
 			</data>
 		</dict>
 		<key>Resources/MainMenu.strings</key>
@@ -981,14 +1671,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a13w3TEwww+1uQVODuSDkpL6EnkYIeGxFYAEaQwfyF4=
+			qBTx2DK+U46L3CzPpMmum8V4rF3k33zcKuNzLbn8CpQ=
 			</data>
 		</dict>
 		<key>Resources/Maximized.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XVtLCy/93eFEVb0RGWnHNDGuMUvN1PA7LyWb0vo7fNM=
+			1kL7OReN8q+Kr8tSHdxOR4yf5007SVQde/SUb3bRahw=
 			</data>
 		</dict>
 		<key>Resources/MigrationMap.plist</key>
@@ -998,11 +1688,32 @@
 			lnw77fdWoEiuDeTT6L0wkTB05O9jrKOrfFhMIjw49bA=
 			</data>
 		</dict>
+		<key>Resources/MiniPasteView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mRhe3D8Vj4CvXdzcBWXMO3FI5F9RyY8hOvYaFpiV8YI=
+			</data>
+		</dict>
+		<key>Resources/MinimalFindView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W4XjXbJai0wEHz5KkB+PjTJKcjzlm2lPOmvUW9yHR5M=
+			</data>
+		</dict>
+		<key>Resources/MinimalPasteView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JZ5QOrDcgqqUxzwm7FGNdZ6Z1uUs3BU/78haDJGPEJE=
+			</data>
+		</dict>
 		<key>Resources/Model.momd/Model.mom</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UWrI+Bsb2LvAFzM0EycsUu1QdfDUJkhtaokj0im7qb8=
+			5EYOFYZripJMsFF5svePLapoG0VZwkKKQu6igJ4/xGQ=
 			</data>
 		</dict>
 		<key>Resources/Model.momd/VersionInfo.plist</key>
@@ -1012,53 +1723,67 @@
 			8wRcrz7F6BQkA0RCO8dxzlMUZXBX5XdEDITjz6ho6z4=
 			</data>
 		</dict>
+		<key>Resources/MouseReportingCursorOverlay.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zHYsseM/1tV/Vk1JuaGpjoLLBSKUk2TfSNePquMfl0M=
+			</data>
+		</dict>
 		<key>Resources/Navigate.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yHQF3E6n6l6/ETgF9XwKgLbz2+kdjiuQOmLZRDU6zfE=
+			nPTBFzWsyodaxmMeitKyH7PqMVkuwMbn/+rS6oIWZKw=
 			</data>
 		</dict>
 		<key>Resources/NewOutput.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5YfM+1JieGE1CnY0m6rV0UXSP+bajyHKKpmY256NZ6w=
+			EAv7+Q7Ewj67qoYQ59YFedkj4BQ9DtIu8t08Y969u+4=
 			</data>
 		</dict>
 		<key>Resources/NewOutputForDarkTheme.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vCwJrpNDrZY9YT9MGPkGCDHEjp5mXWkvG5WslgxyLp0=
+			VkXywoRdnLkbE3wEenMvWTsXKHeZwNDkKTVOkaJd3Es=
 			</data>
 		</dict>
 		<key>Resources/Next Mark Touch Bar Icon.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			s4Hox0B2vIVAh2gWpnwuFZQHBDwamBW8LN9WzGFK+nw=
+			+OGDux9yry2LhNjDcuKIIJrbQa187xRf/7xSuc1Zi6Q=
 			</data>
 		</dict>
 		<key>Resources/NextTip.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/38tTRtkw5Aqkb9VK/3P0Qkm5IdVdurCF7n0TdqXzQQ=
+			oolGv9uusuBqhhGxDFiexkZaRpOn61RAv8JVd2A7yNE=
 			</data>
 		</dict>
 		<key>Resources/NoColor.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QYytyEem6FJ5iDO8xY/lm9LwENfndF+nGOP1SnLW/Fg=
+			iZkjS5YrFrY7JMKntkag8AyyY4j3OLyT/rMarEBX0v4=
 			</data>
 		</dict>
 		<key>Resources/NumberOfSpacesAccessoryView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N/HsyrJm3RtLf3PBFlEfRhFdtkT+b8Yvy9JD+oqGvC8=
+			sgHy1mjcvdrKleOwCl3Sptv5/4blID9nhcHoz7DBSkI=
+			</data>
+		</dict>
+		<key>Resources/OpenQuicklyActionIcon.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ShYJzXPPSCAyBxcTZKU2ozqMZg45VamSpTVuIwjMJu4=
 			</data>
 		</dict>
 		<key>Resources/PTYTextViewTest-golden-nonretina-testCustomUnderline.png</key>
@@ -1093,21 +1818,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RtH2THsaq8izkJRRs2D+Gh4yec4yOQ6lFs5aAZMn/U0=
+			9uMyxajWF2Lq2XQULKnqJDBlCpceByMd5RbiQd5h4+8=
 			</data>
 		</dict>
 		<key>Resources/PasteboardHistory.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uWUXuQCA/ega11XwEX+PG0xHPFVwfxmyVM1iRfPSweg=
+			HNwMqgP1msKo7Oxt4hy9QZxF4VPJuMoqg/D46TARXTk=
+			</data>
+		</dict>
+		<key>Resources/PopoverIcon.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ny/bDH4JzGlncrMZUZoF9BcfzqbfihYmlLZaQWYH5LY=
+			</data>
+		</dict>
+		<key>Resources/PowerlineLN.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DG9pfKVR6tST7+1ys6lnj4ULrF9zo2/Ls9UWaf2TI7A=
+			</data>
+		</dict>
+		<key>Resources/PowerlineLineLeftArrow.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CzRZ34+Qgr+J71aM2DMrm57btDrK9sOT5Q1SM7HU7zQ=
+			</data>
+		</dict>
+		<key>Resources/PowerlineLineRightArrow.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wwfzlLg33A4OwtuoPVTkSuOdb4MfOdXYatlsyGP8Uuc=
+			</data>
+		</dict>
+		<key>Resources/PowerlinePadlock.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wf+OgzLyDQTYqUaTsIr4fmVNSoNjt14JNe6bZ1eAmNQ=
+			</data>
+		</dict>
+		<key>Resources/PowerlineSolidLeftArrow.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ze5LLv1U1vG0+ero+t91Prky/VP6XOw8n/NStNGoTG8=
+			</data>
+		</dict>
+		<key>Resources/PowerlineSolidRightArrow.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0dXnB2Ge10aDfaX9+RFl0wuxhKiR3QahscaW6KZ6CZU=
+			</data>
+		</dict>
+		<key>Resources/PowerlineVersionControlBranch.pdf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eb0Dj0cxyed91zXWIzFES6nG3f+VXjWwLV1Kn7wOWQs=
 			</data>
 		</dict>
 		<key>Resources/PreferencePanel.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qPEJW57Z3vw19gIvtqAoXAIR0sCx3dQw5FAbSHjBey4=
+			mJkiLBoLB+jvYFoxGsOkKSe4I8xU49FMb+S5M+bC/9g=
 			</data>
 		</dict>
 		<key>Resources/PreferencePanel.strings</key>
@@ -1121,77 +1902,77 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6uoJ3aOrtsQUa6GKn3vFjm37zKpbUOniRcD0bK/f9lg=
+			/lCdHev5H3d3uQ0zb5Z5vEaUbJpMZujbD4Zu8WCnT94=
 			</data>
 		</dict>
 		<key>Resources/PrefsAppearance.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mHZ58YRlNpYVgfN54k4SAuKPNmK9G7mcZFaZo7NnKM=
+			2Knn3M/+YnAtiaANvIRAELW+veYmi1zqiy0EmavoC+4=
 			</data>
 		</dict>
 		<key>Resources/PrefsArrangements.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NZb9/zAZs+XNjnCIMLviCOkT00dK+xIR8OvogEmALNM=
+			6hjhK4Q/k1ypSiyC4BPoUiVRJE5KbOhxrl0pvH8kjV0=
 			</data>
 		</dict>
 		<key>Resources/PrefsGeneral.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sr/MZRyWkitelj0dvLLfeXT06lKn7cW4lHA+4hl6M5w=
+			j/GIFoQB/xF+Z+VisAQoZvyOIHUohP1/2Yd8OoKJZAI=
 			</data>
 		</dict>
 		<key>Resources/PrefsKeyboard.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YRKUVycRryI21Qd3naClpEPdvwbdinTKEo7NdwlqXyM=
+			wR5VK/HyHQaVcWub0YDMTBW+Mae3xKGD/KuIS8NfOkQ=
 			</data>
 		</dict>
 		<key>Resources/PrefsMouse.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H951OD5OzuVAjeSrFp6Yz+i8F4VrR5gGwH5mr0E5VvU=
+			IhdJVeUXVYeE1Bgj1wNOWc+ZgmcKnaFQNenuH1mgqwY=
 			</data>
 		</dict>
 		<key>Resources/PrefsProfile.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hjjfnD9R9EQP3yxgKDWm6zH4588PyQj30ZdH/pUKwxQ=
+			qTGJ0UaY7XJtGNAX1ttYqarr5l6f1ohg4Hg8nAfHJq8=
 			</data>
 		</dict>
 		<key>Resources/PresetKeyMappings.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+79FhXPmG7NvkSCgFYUTQDnXrtlFtuOBttrf1yXpKpM=
+			g+gF2gyw7BSpJtNfQBOYvDtltQC93YUBp1Zb6f92BzU=
 			</data>
 		</dict>
 		<key>Resources/Previous Mark Touch Bar Icon.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7FtU4R0ZVToVQK8+ltStkYyVh+LF5WC/Lm1iqV7BbKE=
+			zVvpbm49kmxIyRdQJBIFOfTUpadEKMtvpzDLZSVpFQk=
 			</data>
 		</dict>
 		<key>Resources/ProfilesWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Z0tpLR14aj7BnI3e3AVwTRj4sKxlMGLohkIKjCo+KI=
+			JSr455cvSmL0mmTMcFJTmkhD/oGtQ85dvggktDDtihQ=
 			</data>
 		</dict>
 		<key>Resources/PseudoTerminal.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			59a8A4329FZ00fyM5kGtk0yRmETqGx3j3Y2zn7zbTfA=
+			SiDPgwlOHCgVd+164t9VH6BlKMnyDiU86W6G8kvnqsc=
 			</data>
 		</dict>
 		<key>Resources/PseudoTerminal.strings</key>
@@ -1201,18 +1982,32 @@
 			4q8cHhMSj3Nm8p7dy7JcO2W3VDNkP2g5NSbLHnljObw=
 			</data>
 		</dict>
+		<key>Resources/PythonLogo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aRPthCC8GhgfHtDK3tfeaeagWW+R66V/rfjeRvBGU7A=
+			</data>
+		</dict>
 		<key>Resources/QuestionMarkSign.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			chqd46h5IFwiHfuQHqJETixG9EZ8xTxJ0pAXUCjNZgM=
+			ACUmOKyKFYVSL5haOjYX3GfgCfGMJcIGwt2I33sXLH8=
+			</data>
+		</dict>
+		<key>Resources/ScriptIcon.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BH/xHWvXdS1VIYJn+alX3Za5wI7dAj6n2n1oeWO26J4=
 			</data>
 		</dict>
 		<key>Resources/SearchCursor.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rmeeE/i59hmQ/YH6XWfW4RnjxZqZQF/G/EIuUgY8/08=
+			BcWV4mhAdbH/ngRbwHMnIDNb1/JHF+LVFSadD/OeLSc=
 			</data>
 		</dict>
 		<key>Resources/SmartSelectionRules.plist</key>
@@ -1226,91 +2021,196 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JVi//zKEyhlG7VuESjP0UxGMZCkn6y0+4GVC9tG2aFA=
+			GV2f+qDZXJyj6JDtRAXkKEKObn1B/F2ERgmCm088Gn4=
+			</data>
+		</dict>
+		<key>Resources/StatusBar.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wM+bH8PC8Ijsg4w4OubwW4bsvMUiUB7zL0ZDFZKGkNY=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconAction.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FD11E9Bks54tX35KMpvDuA+2OruJ8Tjs1G7ykkf35SE=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconBattery.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YwPOyjir73f+k6WY9xrKQbYbPy8mm/O9gf1iH33xjHU=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconCPU.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fnM8H7G9Bli6dsmsufX2qA5rTqZLMKhJPw+SOjCEQrM=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconCharging.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oiV1rwWgzUxCL14grsSn04+nlkcewlOFuu23gUG3mig=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconClock.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WP8Lwf3nXelA6QICZczTN3vDL9lIL9/qHa6WeV9In+0=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconComposer.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ly6Zrc8jOVhnbZbYq+bJOnnyXx8QCSRagXNKDUmhOdo=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconFolder.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KbPgn5faZa6Angds7/AOsl1MH6vdUrp5UbE3d4p8Myo=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconGitBranch.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MC93Szw2n4+K0AJV/posEvgMAfuu105UwipDBNvO/jQ=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconHost.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6uScLdb7qTs/8ePjTWphfVYk687pUy1ceX+gtr6kya8=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconJobs.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cJIBplx9jrODHzyr09VTT6tzt35uBoYrftNQ/Hx62Pw=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconLoupe.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FdN3kTybiae12faRyo94KUw1Q1LZiJpZn/VRPaNDcRw=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconNetwork.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8lb6tarwKhDu+zUJ26BO7yC0u8aiOGzsw8WC+QHw1Sg=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconNoBattery.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FkT4ic2kcL0ufDzirqEc1mJOpSo5J5dMF7ZijXUjENo=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconPaste.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A8xsKVGN/XzZWjkLHertFIM2VfEe0VxjpQ/NpnJjWSA=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconRAM.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rlDpJW5pl63rcrg1YLVk3HtVGD6hAOQF7imYDYovYbs=
+			</data>
+		</dict>
+		<key>Resources/StatusBarIconUser.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			02YXncmwVFytl6U5Bv4Lv+2NkfC9olirwsQW06WA7zo=
 			</data>
 		</dict>
 		<key>Resources/StatusItem.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cMJGu3RSyCjngZVsoUa0xJ11XIF4ZhMsoWhexywtxG0=
+			uLS8hNbOMmdCC/Q/TMIAw+4RKMANv/gjVBocUtuvHOk=
 			</data>
 		</dict>
 		<key>Resources/StatusItemAlt.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0As/3I1+LVmZWvIdarwm3wPsfdA3RwjrrwjzsKjLVVQ=
+			CAS83mwxQbsY6vmowMYNFtiOm0glo3HUvUp1op5ft6M=
+			</data>
+		</dict>
+		<key>Resources/StopStatusIcon.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3C9s98l6hBaHWFX/iQ9361nEf//Z+xSyJt0MvWWqySM=
 			</data>
 		</dict>
 		<key>Resources/SuppressAllOutput.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KHNiRDzFl936Ps49uXATslkxitotbwevAFye0Us2XWE=
+			U2QvCS89qFdrl3wyCkFpuUc7SXw7h2npiVW0MkpNcVQ=
 			</data>
 		</dict>
 		<key>Resources/TabClose_Front.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GSzck/skCckY0D6j8sry/jVigRgzN7IC+mZTMwMQhkQ=
+			B8knEJvgqHqbImMxrL5hcQYuFq1yVKSyLKiWmxSjyE4=
 			</data>
 		</dict>
 		<key>Resources/TabClose_Front_Pressed.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jitu1MhDufCRAWNj0q5LOoC/ZDanbW/5jwEOwjcjoXk=
+			E8rfOul5QvNZ8+ExeXXp3IoJqXH1UDFzIiAtXESIxbE=
 			</data>
 		</dict>
 		<key>Resources/TabClose_Front_Rollover.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1g+Xr2/f7Y9lvFGkWbJeJG+O7isL/xHxl85HaKoLSlo=
-			</data>
-		</dict>
-		<key>Resources/TabNewMetal.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			odZA1CAMkIFBTBW5Q0fVcHsBYaYiGXK7fX6ADbOvyPk=
-			</data>
-		</dict>
-		<key>Resources/TabNewMetalPressed.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			BvwaYbNyRtMb7Ds0RJF3LS8Y1IxCvnhuEY+qVLOgus8=
-			</data>
-		</dict>
-		<key>Resources/TabNewMetalRollover.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			H3sKabG87RSAMOCBs1bhmsCchu2XWLhgr2765sDkjm4=
+			Tzl37v0C5td6lBhDaDJd9fIA4hni4Qtyjn1I8T3RZB0=
 			</data>
 		</dict>
 		<key>Resources/TipCalendar.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GN546ll49iZZ1nLSN5THXNTCMapgGAVlbkQsRlq2IY=
+			w+7cCvgYvi0tu8DfQVA4UeVhoomHruAbS1j/O3Fw6Hc=
 			</data>
 		</dict>
 		<key>Resources/TmuxDashboard.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BxxWABEz2QlnfAPmbOsSL6zs7a/CmhlhmITGc7Re8sU=
+			C8O8VdC7mKXkNK2DsKs1xPccHxOB9VF4BBJx9Yssvak=
 			</data>
 		</dict>
 		<key>Resources/Touch Bar Function Keys.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KMaIiUiOZax3MindwyE6LBELSQDqCIH4Bc+ORMjXfWw=
+			lCOlxn1f27aT1H6ldxG0oUNTSlhLwBhbk2jo5q8/uNM=
 			</data>
 		</dict>
 		<key>Resources/UKCrashReporter Readme.txt</key>
@@ -1324,7 +2224,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0BzrwuXWGbwgPUIG1CFynmtxRuwYTnbw8BbG0doUlUQ=
+			ACin8Q+ltrHdlwhxo6sFVLrQMqBVDzfmXIbDfGNoY2k=
 			</data>
 		</dict>
 		<key>Resources/UKCrashReporter.strings</key>
@@ -1334,25 +2234,32 @@
 			X6rd0bJgtgjbB7XHBfCBnTjE9f9M/3bTCH8s1NgtakM=
 			</data>
 		</dict>
-		<key>Resources/Warning.png</key>
+		<key>Resources/Warning.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rivgKXDQZJFo5/3akOnadv7IqQrl29iST/y1KUjKmaU=
+			eWomQh4j6zggnsQ5I2RjNwaejr/17xUnuWkyUuhNBMQ=
 			</data>
 		</dict>
 		<key>Resources/WarningSign.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VLoVFhJdovZU/iHZbDPbFrecZHmFuB1y091vhFdmLKw=
+			s0HoRff3cV1N3xLcVoBNfABjMnxbRM0mz5f4Qa4OeEM=
+			</data>
+		</dict>
+		<key>Resources/YosemiteAddTab.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YMqIruJTSyq7JLZjh5vR2wxBNfVs/bSYDrZwhUvogUg=
 			</data>
 		</dict>
 		<key>Resources/Zoomed.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UrfZ54y6AN5xpuz6BodciVFni9zSfC7sTs47Yn2jcLk=
+			epM6Hvfo9PgyBfcKKGJJFsJ2AtsqYwhKCiy6b3bZPR4=
 			</data>
 		</dict>
 		<key>Resources/bell.png</key>
@@ -1380,7 +2287,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T+9FXXNkk9EEE5q95wkPLuP8OYdG7OwdJljX9PKxQKU=
+			iQA5fiW/3Zf8/pUEB2TyPImQxouXRvfTMoYhZl9G79M=
 			</data>
 		</dict>
 		<key>Resources/config.png</key>
@@ -1401,21 +2308,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0vgI2yXOLD8M7Bn0Nld0z2+NcPGMGmzBNHx/PHFO+s4=
+			84qpAIZn3miY3fik/q5dyPEvEoMwWl1CmpPDWV/mBNs=
 			</data>
 		</dict>
 		<key>Resources/default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IbEJoltsHp/M1fqqvmQyRn8ODfYrl111j0BebnyE17k=
+			DA3MpKGBnHsDlvFn4sUpFj9gvpCqHD8DAVkNZ/hqlnk=
 			</data>
 		</dict>
 		<key>Resources/download.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N7ZchmO6jsR6JqDgVrZkbetHiFmMOoUCNi1zQXr+iM8=
+			Mfu0gSzocFgGjmGjXMTOOujsdN3xJySF2AjMSdZ+/jk=
 			</data>
 		</dict>
 		<key>Resources/dsa_pub.pem</key>
@@ -1425,179 +2332,725 @@
 			j2oA1uztldXUSllhFe43dR12K/LHKMRI8nTVcQr6f90=
 			</data>
 		</dict>
+		<key>Resources/git.sb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3CvZ4w4saRxMQA0Ru/GjX6T/VgGH26AJ5EWbXBNvN/w=
+			</data>
+		</dict>
+		<key>Resources/gitdirty.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			izyIMOV9ATpzVFrrCntHJYBtGTXEhoofOIwzTnZNPeg=
+			</data>
+		</dict>
+		<key>Resources/gitdown.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TQUjhhTHt0n8QmUBCEKUKlyTegRpTd7keSgJrbdLndQ=
+			</data>
+		</dict>
+		<key>Resources/gitup.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RRQDfcd8lyt7xdxYWPzjbsHMixzDm4bPywMeozBK3ko=
+			</data>
+		</dict>
+		<key>Resources/graphic_atom.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xjQtCb1Ur54BOszB5dRlhKli5/08tZHU1zjt39sZulE=
+			</data>
+		</dict>
+		<key>Resources/graphic_bower.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7DiydTuL2Lj7KppJ6oIoxzB9j7Pcg+g9HGmIbZAuFTk=
+			</data>
+		</dict>
+		<key>Resources/graphic_bq.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aow3QrUXsozuWAuJl0eTLrUQoBFlBYTOMBW17ikuoeI=
+			</data>
+		</dict>
+		<key>Resources/graphic_bullhorn.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			onZnkNzJm/iYf61cAkRQBkMgMLIqP/9DB6H0W0I4dp0=
+			</data>
+		</dict>
+		<key>Resources/graphic_clojure.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			B3qLxGvR+USEEuQrxkpwnxZESIcl0BON/tsisGx7ZOQ=
+			</data>
+		</dict>
+		<key>Resources/graphic_code.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wWaJOMFSrtezuJBx6OrT76qDTCWEECxLszip/p1U6z4=
+			</data>
+		</dict>
+		<key>Resources/graphic_coffee.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ak9xLigW2fX+1+/kSg7uICCwRCbwf8wQ670UHGkhzqk=
+			</data>
+		</dict>
+		<key>Resources/graphic_colors.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Xs0mekKgDI8DoVp2Gh8OjTUHk5qgHa65IH3rdQw7t4=
+			</data>
+		</dict>
+		<key>Resources/graphic_compile.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			20a3Dc9SCidqvNgM7pm0PP2aC/nhpnrsGTyqi23eheM=
+			</data>
+		</dict>
+		<key>Resources/graphic_composer.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bZB2jWoZbyLOo18D6sekrkYoY2bv/T4FbXdgPwIP6TI=
+			</data>
+		</dict>
+		<key>Resources/graphic_curl.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vSv72Qs08l/qbjl04mlIkIioi3nLWdOEFq7WM+27ihY=
+			</data>
+		</dict>
+		<key>Resources/graphic_database.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UnkYdhPS88F6BUym0kOJJaL3Fy2rzpE4H3OgR8tTUrs=
+			</data>
+		</dict>
+		<key>Resources/graphic_docker.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6VVlzEr0pHcv4aNMBQFHB8ES15UuUHoYb7CWcUImkqY=
+			</data>
+		</dict>
+		<key>Resources/graphic_ethereum.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dIkx4VqSEdzaoXaQWhwUvTZXlltjFBw1hpO81hvnjCc=
+			</data>
+		</dict>
+		<key>Resources/graphic_git.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ws0bpPfERVJVZPNNiuCUQlZVZk/pEwv2jHyfmcGvAAo=
+			</data>
+		</dict>
+		<key>Resources/graphic_gulp.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sHbIQZ4VyzzNsWicrh/rgcGwWQtLwb3q7CINTUjQuJE=
+			</data>
+		</dict>
+		<key>Resources/graphic_heroku@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0VCAjRUWzAd4cM4AMYAxYs3zeY0WXTJgxO2iDzoDU04=
+			</data>
+		</dict>
+		<key>Resources/graphic_http.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iVlkAV/MknIoXgSKSS1etcXelmUmA5eRYakACqoGPRU=
+			</data>
+		</dict>
+		<key>Resources/graphic_icons.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8FzfKMiy254sTPX0OBl91a4tuym2nU67ZBlVizxx21g=
+			</data>
+		</dict>
+		<key>Resources/graphic_java.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8tZSBIXJLpyPaR2zArW9jFuiRxo3IwXqxuLzQB1WVa0=
+			</data>
+		</dict>
+		<key>Resources/graphic_less.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DA3JHy65DOKcDkIiNjiEj5wfz05RA+Dn+/FP8w/0wM8=
+			</data>
+		</dict>
+		<key>Resources/graphic_micro.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aUQm6V0iKudi7YRD8/xsyyk2a9adk/iXk78pWBVs4fQ=
+			</data>
+		</dict>
+		<key>Resources/graphic_monitor.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hz7ArHwdnvGUUr4EgK4kkQiwalo0O5vTrFo4Rgjd/e8=
+			</data>
+		</dict>
+		<key>Resources/graphic_mysql.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2A6ZcHDrlye9NxwXL/FCgVwB704Vg5WbyhBpL102iyU=
+			</data>
+		</dict>
+		<key>Resources/graphic_nano.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BsUt1P9EZTu7Zc5Tyesf1RZ4yKti++l1vwnwLEqugwY=
+			</data>
+		</dict>
+		<key>Resources/graphic_nginx.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r36cPVxvQCsD7eLFqaF+0psFr53dTuWjJZnYID4jzVU=
+			</data>
+		</dict>
+		<key>Resources/graphic_nodejs.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BFauMTLoh78HyXkNTUWIRh5q/9kp/4gU5Amo/CFzy70=
+			</data>
+		</dict>
+		<key>Resources/graphic_npm.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LP6oGlAQQQwLaM3cWNjTZMUv8Q+r02LGpJ2pt2OJ9Lg=
+			</data>
+		</dict>
+		<key>Resources/graphic_perl.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PMBNa/u2AjNuhzwTM/BloEIk95AZS9xlcKFG1Qo4chA=
+			</data>
+		</dict>
+		<key>Resources/graphic_php.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2Mm67CKmErqEea63o6JBuHO0mtTSbmhUNBj4+JsAiMc=
+			</data>
+		</dict>
+		<key>Resources/graphic_psql.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MiccFdG4Mf9BkerH5rAY7slwXubnZnpLNnajqpjMBOc=
+			</data>
+		</dict>
+		<key>Resources/graphic_python.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LF34iHQKtH+6XK1z0f6AFPzw1J0rolE/mYMNYi/QZWM=
+			</data>
+		</dict>
+		<key>Resources/graphic_rails.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/w4A8f4UvAZxa5KEC0XeyukTl2fwMNy7VvA9r1ptyqg=
+			</data>
+		</dict>
+		<key>Resources/graphic_read.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a+LJ5hhYWd4mBnUh6DqNIP3XyJKntWisJaF1FesQMyA=
+			</data>
+		</dict>
+		<key>Resources/graphic_ruby.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kty10buwZht+fpFgBWYAPZMPSzB8GClsbsulABujdxA=
+			</data>
+		</dict>
+		<key>Resources/graphic_search.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CwFcadKZlS2VNVenq+Wf9JEaIP0MvZ+TCnmMB61yT/g=
+			</data>
+		</dict>
+		<key>Resources/graphic_shell.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			26qn3lehuqOwxuu+0EonEQMe087GanYOgBhNT9rJ12Q=
+			</data>
+		</dict>
+		<key>Resources/graphic_vim.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JpMuTZoGjQeL+YAWg9qbvrZ1tKweAidYCUlksCyjlHA=
+			</data>
+		</dict>
+		<key>Resources/graphic_yarn.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SwPt3zovzbxO6iRKxtp/MxsE6i6LFV8R48Hsk9MBmWo=
+			</data>
+		</dict>
+		<key>Resources/graphic_yo.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8C60ze2Qjjj4GWw1rDSRDyYDcU2kUrmB7U4STH3biP4=
+			</data>
+		</dict>
+		<key>Resources/graphic_zip.tiff</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XLn5ylshz+k7AOXvPkGQP++FqkHD/bSG1+0awdLzzaU=
+			</data>
+		</dict>
 		<key>Resources/iTerm.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pHhNp0wMZCKJnxwS8nJFaubl4h2iwmLXEgiBdZ/ushM=
+			2UQmy3KJkx8ELHXhKpxYrKvhOcvzxWia7RFatHYJtOM=
 			</data>
 		</dict>
 		<key>Resources/iTerm2.sdef</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g2E9mLd1LLzVA7LYg4doOnRv6Lp1LecSDhGvwGBd3EU=
+			vy2QYHLgnPi8eDazPrfP43rwZKj25zXCdxjCX5FkShA=
+			</data>
+		</dict>
+		<key>Resources/iTerm2Script.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l3JgeEcrhHeLfzQEos5RCUTBNicgtHmlaFydNIBuJiI=
 			</data>
 		</dict>
 		<key>Resources/iTermAdvancedGPUSettingsWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HbwlPqO2IcFu+kp2HIWYa+L7eGQezUJgeaX2tXr1HZY=
+			dEcCIxKXTaHXV+iB0eiGLWEAuCWxZ1YzVWd62c2hPzE=
+			</data>
+		</dict>
+		<key>Resources/iTermBadgeConfigurationWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			27Ue8H7l2WxGnwlU+NGEpRibyfBKMtNOUtrIFVorZ6Y=
 			</data>
 		</dict>
 		<key>Resources/iTermBuildingScriptWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gxIi601WosbtduujZ4UrC6c0vo7wy5UqERXKedejG2I=
+			cXArLLZ2aYVOMLkJP8+tCNoQ89ZrxnfQxJzOgkoe2xI=
+			</data>
+		</dict>
+		<key>Resources/iTermDependencyEditorWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NtQsjQ8Jokb/QefKNS63+CG/MNfhmKLd7VTmjssOe6w=
 			</data>
 		</dict>
 		<key>Resources/iTermEditKeyActionWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ws5/Dh/Q3OG43sLlbj77rQLFmzL/lHH9iy/VTSevWTk=
+			b8uYVgMTqNQyDfPvzrabh64+7fR+sNadJBJ7k7X/Qlg=
 			</data>
 		</dict>
 		<key>Resources/iTermHelpMessageViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QsbSY8iihgOufypjnChp0eHGDvVSVppOinr//L2SulQ=
+			L1pztdP1axRbzm2TZvkg2JqlpSj8YedsYak8Gm/olF4=
 			</data>
 		</dict>
 		<key>Resources/iTermHotkeyPreferencesWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S21yur9FPXgx0sXDMeyFseGg93CydHh9bhzoOXs6vRs=
+			r40CQHizbKiT04eHrrMwPV+HdsLx7aRrOnZ8htSd0Cs=
+			</data>
+		</dict>
+		<key>Resources/iTermJobTreeViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			InUWSoGqnJZ7pqZ5Vdtdz7Dgn/ccJiuAkqImQLUI6Fg=
 			</data>
 		</dict>
 		<key>Resources/iTermKeyMapping.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0BXdGlldtH7NTFL/aPoGHzVa26xB7A/RObPUDRCOWm8=
+			V0llFlM8kzZ+VFbv2bC4hSsMIynAzRbGUcD12gong7A=
+			</data>
+		</dict>
+		<key>Resources/iTermMiniSearchFieldViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZKJyi0PTlm4DT4m+SAEreoOeBd+WUdF9gOFErIRQMfs=
+			</data>
+		</dict>
+		<key>Resources/iTermOnboardingWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A2Wag1PUKYXD1BaKKZre/ZRRBV5woHB8dglfYBJOaE0=
 			</data>
 		</dict>
 		<key>Resources/iTermOpenQuicklyWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			w/VBCpA6oaZzQfgP5RLHrhxaFIhaa3p23DACZPH5O/s=
+			qaRKWUkb19kurB3e5+S6FShXn19M4DKCePSSsfyDTFI=
 			</data>
 		</dict>
 		<key>Resources/iTermOptionalComponentDownloadWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9ngb8dSMfB/Q+NPp30PEewMlu6pgylFeLW5SQweNAq0=
+			kehCiU6b6VwQ4iztSKwgQ3Tqlm1Kngv1GVgnm+235Ls=
 			</data>
 		</dict>
-		<key>Resources/iTermPasswordManager.nib</key>
+		<key>Resources/iTermParameterPanelWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aWAVS4mJObC9orPApCMNteiCD82SBJzlB9OQ3SCrivQ=
+			kETsb9x2Qal9t37dyDl3cN1CBYj8ToFgRdPAB0dK8dw=
+			</data>
+		</dict>
+		<key>Resources/iTermPasswordManager.nib/keyedobjects-101400.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OL8Pvvj88V5P7C22fhBvfqQhg1312vhmGyuEfqpeXto=
+			</data>
+		</dict>
+		<key>Resources/iTermPasswordManager.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			poy30Mm3VOY8oCv+5GZ1VtummJd0tYfVfcrtoNKJuao=
 			</data>
 		</dict>
 		<key>Resources/iTermPasteSpecialViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZpaiSPlIuYZXLSEEKuqcCyWnZ+w6foKG7uD3JJ3c6Zk=
+			AvnZqPdYE4ID/oxdEAuPoJx0lVb4KUgEot7GEXDQ+2U=
 			</data>
 		</dict>
 		<key>Resources/iTermPasteSpecialWindow.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ANgWohTDrhgLNiICqUpuJJoopPw/UAqKkEVmk2yCq+Y=
+			CxYoNj5txeMca5kK7ylDsjfLmR12Hc3+Ftygo+IbNPQ=
+			</data>
+		</dict>
+		<key>Resources/iTermPreferencesSearchEngineResultsWindowController.nib/keyedobjects-101400.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			96Hzf6+QztCuwMwwx43+4CSH1NX7CE3wW0h1bpG6fL4=
+			</data>
+		</dict>
+		<key>Resources/iTermPreferencesSearchEngineResultsWindowController.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V3TmwlXhej9xmXASjBZSqdMyA/zcWLCc3K0WZwe1h6Q=
 			</data>
 		</dict>
 		<key>Resources/iTermPrintAccessoryViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iIwa20LB1nxQynbZA2xouXPo3GYXKtBNOL4Ak5lbyiY=
+			KeQqWEOhXS9xqiFhbEizludPLKsla4IifAngKK4tTWs=
+			</data>
+		</dict>
+		<key>Resources/iTermRecordingIcon.icns</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bvrGFwV6w3ezwkJ1r2W4oj37m7NbBD6fOVQ5FidYIDw=
+			</data>
+		</dict>
+		<key>Resources/iTermSavePanelFileFormatAccessory.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8OYmbyba/eNxuH4qqyGUmJy1EsQQ/E5PvvvyNLvouPc=
 			</data>
 		</dict>
 		<key>Resources/iTermScriptConsole.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jgsr1DbPDaN36l+DUbhjPN+5b0IOBAgmu8jpHny7N7w=
+			Sgshmfzcq/TBBuaZDEixp8B0OJZFAzVa8mv3fMe2oZw=
+			</data>
+		</dict>
+		<key>Resources/iTermScriptInspector.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oImNlTo/tR8tOD4NQneA0m5Wgpp5Lemr5tYXmJBirik=
 			</data>
 		</dict>
 		<key>Resources/iTermScriptTemplatePickerWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cRp8iqVy9RzjL0uICkKofPxZ6tyAqu3Vgbmkt/8qu/g=
+			I/OEgnyvx34KYm3B1pNt2VOCFaVthrhmPD+FFHE8bHU=
+			</data>
+		</dict>
+		<key>Resources/iTermShellIntegrationWindowController.nib/keyedobjects-101400.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jXHn7Ce/cHkieTCaBEVNdZH7lhbZV8azaCW103EVlD0=
+			</data>
+		</dict>
+		<key>Resources/iTermShellIntegrationWindowController.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t+sajIvqLRtfmG0S8bpXB5tTISnz6VCNUBNm0u16D20=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarKnobCheckboxViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OongeY1ZG9NCsE9FobXYOPRhfCCx510xfuBKZa1MMcA=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarKnobColorViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J5dkDRv896m3Px9Mx/E4bHJOZWGa9P4YLTFauz25vqE=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarKnobNumericViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iNxZlewtn9ksjmD0see4KV/mYVywZHpgWpQMZ5idoU4=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarKnobTextViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			91yh4RYmWxtjHp829WfwzcnCdI4Is5yFd894HYCJPiU=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarLargeComposerViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D066k47cwVis7J/1UFblVqtcaUCQRsGkSXNgX2Q4tAg=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarSetupCollectionViewItem.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XXKoTtB8uTh0yt2bEM0HWxYLxMK8F7Q/UBo1eLi8brs=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarSetupConfigureComponentWindowController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I0k/lx2EWgi8elitLTxoR82+RU2Dd8qOHYFFSNoG0Kc=
+			</data>
+		</dict>
+		<key>Resources/iTermStatusBarSetupViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q0Ivfs6rZceQWvodOeyBFl2watpj5J98LIBZ+Rr7BQs=
+			</data>
+		</dict>
+		<key>Resources/iTermTextPopoverViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nMqwGoV7qq8BIl+fFGYNV4Q132g2lIH94Ib4VK/ethU=
 			</data>
 		</dict>
 		<key>Resources/iTermTipCardViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wHqUocEv0yU+GJ2fqHC8Z9Ce0MJ8QXkHjYOefMrxXQY=
+			fENbTD+doXjOAhByGtEvQhT2zOVu+jdacEeZgUknCc0=
 			</data>
 		</dict>
 		<key>Resources/iTermTipWindowController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UKIKunywmuFdSiKsdz8CDVTgW5/Js9qXE7nYRsv/n4g=
+			OKPQ6Rf90Wv9544jOoSW0KCubr2Ri7jFvUPk0M6J+5E=
 			</data>
 		</dict>
 		<key>Resources/iTermWindowShortcutAccessoryView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OcXgTzPvCj37vrgazGgp+qKX13lrjvavbqeLMMiRRbU=
+			iBJ4OCyTwI9FXunsLHoJ2db3M1z0MtVs3c9OZn9OlcU=
 			</data>
 		</dict>
-		<key>Resources/image_decoder</key>
+		<key>Resources/iTermsStatusBarComposerViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uz3VK3WpQhteiGzwSpFa4ZVDWzrEnyH48JkWwdrFKWk=
+			kqeTh+r9jcWeccMw78vxDvI297usa1g5NUTGh/y7wo8=
 			</data>
 		</dict>
 		<key>Resources/image_decoder.sb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9eXRQOCsIO/iX9lmjj1gvugmT/cyMzhm2e9V0r+0/4Q=
+			R0t3BzRoBfsr5xq1vvogzMMg1uA2gMU52oz8+OZMQ/w=
 			</data>
 		</dict>
 		<key>Resources/important.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vt7bCi3f9YqFXYKhmjsVClxaqZlR+LhxuiDgkbX/Lo0=
+			csmWrtJ/IHIswOAAWus6zrs33oJmksZ4O93dOKbIeWE=
 			</data>
 		</dict>
 		<key>Resources/it2_api_wrapper.sh</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+KM0ECkEn1o+aiB5VqpwjTH1EMIP6vG54lPXq3I82ks=
+			hcdOZLCTO/hQuKfqgFbEuVJh4VHxjIuvLahztyjuITw=
+			</data>
+		</dict>
+		<key>Resources/it2run</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wf4ecVXo5qLaWvlEqzX1kWKAQe4Shk1yCIndCzxmoJM=
+			</data>
+		</dict>
+		<key>Resources/iterm2Invoke.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o1oqjXRJD4jwT24o4j+0sbdAVJQPMf7K/O0tnDvViAM=
+			</data>
+		</dict>
+		<key>Resources/iterm2_git_poll.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CLpPbyenPMzmd8LVlC4qjyTU4J9N0wWxdGyE5Apk+1U=
+			</data>
+		</dict>
+		<key>Resources/iterm2_git_wrapper.sh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2Prm+lKEBchXwj71Or9jzXGjQxJf07fmQqI/7DOKb+I=
+			</data>
+		</dict>
+		<key>Resources/iterm2_shell_integration.bash</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F4fYVzd4Bym8qDp7PttrM4XnV75ddqtGRD1i3MMjH3Q=
+			</data>
+		</dict>
+		<key>Resources/iterm2_shell_integration.fish</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AqtH/VtByO/FR67/j2nNC2wI125w8zaWWuSA9z2zVsc=
+			</data>
+		</dict>
+		<key>Resources/iterm2_shell_integration.tcsh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lT8Udhdd43LHGnx3sh4RF4CI4nKgk0nF61Tp7/qwdFY=
+			</data>
+		</dict>
+		<key>Resources/iterm2_shell_integration.zsh</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NO7ME3YxHvVDNeb2bxG7BrZrYfF+WKrIfxy2FD6cp+I=
 			</data>
 		</dict>
 		<key>Resources/key.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6bmqWy0G9avcKA8CjujaEhCWbcSKBAmFWIOf7hKZciY=
+			FPvaUZI5W3xbUw1gy1IQ8dzyUeZuRkML5YhQ6AMdEsY=
+			</data>
+		</dict>
+		<key>Resources/keyclick.m4a</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			y7kmjB7l1PclFTPtOQ/mRy4spqaNgXBI6xEt88+RiBo=
 			</data>
 		</dict>
 		<key>Resources/new-tab.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			14rSscUT8h0P80N1dTi7/2UFPzW7Kxu8+WXSXgFTAks=
+			BZq6k30zj5C+zSLiyd5nJCD9q+wF+t7H3vyHdeMaPes=
 			</data>
 		</dict>
 		<key>Resources/newwin.png</key>
@@ -1611,28 +3064,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FfdTPntAtEaz3UveJrpFKGS61sOcgz4k6HhODPnI/74=
+			ujSaE4PFEe+W44aHQLHk43xbhUv6ZVvfvanqHmTYX34=
 			</data>
 		</dict>
 		<key>Resources/overflowImagePressed.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			StANiDE7KN/9O7CZUcK48oOKbNDAsGUjJDkWQIuqWEQ=
+			yJmLaO2v+Evx5kWX61FN9+QPcNb9YcPZiamj1eftsVE=
 			</data>
 		</dict>
 		<key>Resources/repl_banner.txt</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W9e/uzZs0DjW0EY48ZyKCKfKF7cnAolmwsEQ/vfSpak=
+			bqMzvlhLbstjQ4Q4aEBMj4vZvCFKrQgHlzr2kUBzRjc=
 			</data>
 		</dict>
 		<key>Resources/restore-arrangement.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IWFpGJNNI6THxvhXk+CEnPO7RcIlSkpCOj7x18QadY0=
+			oeLBQSw0zQzMlpOiTLAhRsovk5e6N4cP/CZOev16yG8=
 			</data>
 		</dict>
 		<key>Resources/rsa_pub.pem</key>
@@ -1646,28 +3099,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3DKSQRxIIEkzabvsuvA43s29aOxcEfsuKDB+TPpf70Y=
+			BdUXWji6OgjLJ61F3ewZ9aKk7uT+dxsAnWITT74/bdo=
 			</data>
 		</dict>
 		<key>Resources/template_basic_simple.py</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gB/FtGKCT6w6FyEK1RFlNCnf1T1tTA4QZL86igya9OM=
+			1u0bV3PFAuR6htiDzy5jiuSKPzCGRlajNQvjyRel9Zw=
 			</data>
 		</dict>
 		<key>Resources/template_pyenv_daemon.py</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8EvaomonX9B6Pn9AxY3l8yQC4NgnSoQUmv9xEmN43rc=
+			dsIqdzcqqhYZlLSylm9tSnm30i6eUQIWLSVFWe+aWZM=
 			</data>
 		</dict>
 		<key>Resources/template_pyenv_simple.py</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NrhWMvN+07OhWCCXSij5Kvfpqmzwz3UAqtZNln2Ec7g=
+			YCnMI1KCOK/6K/BplOp9FhawA0PWp4uqB5zCJomk8eM=
+			</data>
+		</dict>
+		<key>Resources/utilities-manifest.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			S5wOWKda4tEKtSl+vhNSY0Un7eXGixK+/ocSGvx5XWo=
+			</data>
+		</dict>
+		<key>Resources/utilities.tgz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PfKRSzmnSQdd92+hJDLBGMy50qO3Q5elXGACKoZ2ip8=
 			</data>
 		</dict>
 		<key>Resources/wrap_to_bottom.png</key>
@@ -1683,6 +3150,15 @@
 			<data>
 			GBExmCHRRKyAsvHZNLjcK9edD91LJ+GG7pl5rWrqPbM=
 			</data>
+		</dict>
+		<key>XPCServices/pidinfo.xpc</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			aaE/9wA+fTw9RsmPIlzZIoxrzmo=
+			</data>
+			<key>requirement</key>
+			<string>anchor apple generic and identifier "com.iterm2.pidinfo" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = H7V7XYVQ7D)</string>
 		</dict>
 	</dict>
 	<key>rules</key>

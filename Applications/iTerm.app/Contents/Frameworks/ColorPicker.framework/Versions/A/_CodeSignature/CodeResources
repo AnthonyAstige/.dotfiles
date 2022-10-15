@@ -6,55 +6,55 @@
 	<dict>
 		<key>Resources/ActiveEscapeHatch.tiff</key>
 		<data>
-		7uQ5YNXiMDe1YcqXu9vl0TZiCiw=
+		6WmxLCzSt4oIaZNbKwif1B8peII=
 		</data>
 		<key>Resources/ActiveEyedropper.tiff</key>
 		<data>
-		5sNYnghwmDeJd3Cn3B0qxv+KYhM=
+		aUsRWUoPetO6lMOsxV9Z0pH6Bvw=
 		</data>
 		<key>Resources/Add.tiff</key>
 		<data>
-		maSXWEOO0MUML5LjKDAT4fyVV/o=
+		k5aECgZsAqLVFOPjDA7GSbAL9dc=
 		</data>
 		<key>Resources/EscapeHatch.tiff</key>
 		<data>
-		I+ZoZEIiBmPbMS+t/DxSexGZsMo=
+		04OY3jksUZgmDmGatkXv6JPR4Zo=
 		</data>
 		<key>Resources/Eyedropper.tiff</key>
 		<data>
-		mV1eJi6QPwq3GCdVSKE65PqM6Hs=
+		bSXOoMColHgdp7UKxAZm08u9qG0=
 		</data>
 		<key>Resources/HSB.tiff</key>
 		<data>
-		Ak8f6hDCtuE4NV8vvBq19M9IFhw=
+		xoeMQ86SkmQucwko7QeImz5ICOM=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		qqwhvVS0OPWB33OJkf8Gz5F1VzY=
+		EKkSO/wV6gjoQGq2yiQYDi6hPsQ=
 		</data>
 		<key>Resources/NoColor.tiff</key>
 		<data>
-		u4yYM7bi3J8QnAVed1CtxzHyq6g=
+		WesYwCs3kX+AYp0+6g93iyKwvQQ=
 		</data>
 		<key>Resources/RGB.tiff</key>
 		<data>
-		MiJYWBA9htypq9TAlTP2KYEUWCM=
+		Sh65j4k2GnRtNeH6k+a60kqDVLM=
 		</data>
 		<key>Resources/Remove.tiff</key>
 		<data>
-		lDXKqNcXf6zgkux1q+gzcaCta4Y=
+		oN0FUlBJrkrubN0i9uA7ZZLIZog=
 		</data>
 		<key>Resources/SelectedColorIndicator.tiff</key>
 		<data>
-		C+BCUqWiEfdUQoVeltiZgwihiN0=
+		B5r+wjlyAuNiZy5wF2KqsNWWV6I=
 		</data>
 		<key>Resources/SelectionIndicator.tiff</key>
 		<data>
-		2C0moUh4Maw9N17c8PRgRCxzMs8=
+		LDSYw2bEW0PmGiyvLcq3fSSllOE=
 		</data>
 		<key>Resources/SwatchCheckerboard.tiff</key>
 		<data>
-		GIDCnyZtAoWz0vK6Gi1ilMCGAWM=
+		sNbbHq4KQCYjpYtCytXlbhLh4MQ=
 		</data>
 		<key>Resources/colors.txt</key>
 		<data>
@@ -67,143 +67,143 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7uQ5YNXiMDe1YcqXu9vl0TZiCiw=
+			6WmxLCzSt4oIaZNbKwif1B8peII=
 			</data>
 			<key>hash2</key>
 			<data>
-			lLcR/WbET7NhIzkhNbsmfRNs5P4WSrMBfGsl+lAK82s=
+			oKgSr9w4xJCuI9tuFhHxa6g62OaZZ+zhB53O50DcHcA=
 			</data>
 		</dict>
 		<key>Resources/ActiveEyedropper.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5sNYnghwmDeJd3Cn3B0qxv+KYhM=
+			aUsRWUoPetO6lMOsxV9Z0pH6Bvw=
 			</data>
 			<key>hash2</key>
 			<data>
-			iFK78RfCpCOaOERGtU8TnSOdFAqvf2dbo9Ru3eIOIsg=
+			vjSyijpwiGdeMhLqjsf73nc1GDysbOrgADitHXa2VGc=
 			</data>
 		</dict>
 		<key>Resources/Add.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			maSXWEOO0MUML5LjKDAT4fyVV/o=
+			k5aECgZsAqLVFOPjDA7GSbAL9dc=
 			</data>
 			<key>hash2</key>
 			<data>
-			8rX7ZiUVeetsqCrX78TSVt/2OOnW6f2cTp5CaD4kw0Y=
+			obFKxLXZVvDFsG5iRHNCuXp1+t4rrXLFe5Irxc3UIXk=
 			</data>
 		</dict>
 		<key>Resources/EscapeHatch.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I+ZoZEIiBmPbMS+t/DxSexGZsMo=
+			04OY3jksUZgmDmGatkXv6JPR4Zo=
 			</data>
 			<key>hash2</key>
 			<data>
-			fV3ws0uJO5AgXrEgR+ND/+NOdbYLboV9LAkDDSjyhqk=
+			l7JMkFkdxVTIUJkaEFFITSaf1iBYZ9rGuou0Y8R51ZQ=
 			</data>
 		</dict>
 		<key>Resources/Eyedropper.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mV1eJi6QPwq3GCdVSKE65PqM6Hs=
+			bSXOoMColHgdp7UKxAZm08u9qG0=
 			</data>
 			<key>hash2</key>
 			<data>
-			HiZ8g2PFiJhbrucpx0qpm31kH1A71GL/K1gPOQMm/04=
+			bqBEZduijW7d6BUS2KiXxA76J8wAYcJUsh+K8raCjbg=
 			</data>
 		</dict>
 		<key>Resources/HSB.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ak8f6hDCtuE4NV8vvBq19M9IFhw=
+			xoeMQ86SkmQucwko7QeImz5ICOM=
 			</data>
 			<key>hash2</key>
 			<data>
-			p6nDQisz91YMIajPEuHKmhoQurj9AcAdaM8wKwwhMxQ=
+			RcxeOdmrwv1LSyBsRaIdgF3Ewt++m4SKx2PsuYfN9hQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qqwhvVS0OPWB33OJkf8Gz5F1VzY=
+			EKkSO/wV6gjoQGq2yiQYDi6hPsQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			LoLDEc4X6VKU5ev1NLRBfOX++/49imCbISYcK4W0LUc=
+			V3RuhE/5vT/LqcEIp7wG1XepPOb8WbTRFErBaiMrNcw=
 			</data>
 		</dict>
 		<key>Resources/NoColor.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			u4yYM7bi3J8QnAVed1CtxzHyq6g=
+			WesYwCs3kX+AYp0+6g93iyKwvQQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			M1V2z6chawGm7YGZxje/l2EcW5zfGrUlBQ0K5clP6gs=
+			l6ATOdw4ahmpxnzah9dob/+V3lhTgNYMOAoXmYlXV70=
 			</data>
 		</dict>
 		<key>Resources/RGB.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MiJYWBA9htypq9TAlTP2KYEUWCM=
+			Sh65j4k2GnRtNeH6k+a60kqDVLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			1SyJAixAV8AwhVT6Gd92QKydyuWLYZtreorYrXdHKjg=
+			RXsLAkufyGKKZnkqBLybrWTI2igHOi9aYnTXWtzbRwA=
 			</data>
 		</dict>
 		<key>Resources/Remove.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lDXKqNcXf6zgkux1q+gzcaCta4Y=
+			oN0FUlBJrkrubN0i9uA7ZZLIZog=
 			</data>
 			<key>hash2</key>
 			<data>
-			vprc8qE5pU3cGJXcLqto1MyM3ut2k7xyjInhq6JBSwE=
+			le9ZIGbS9nPsyd8uS1kXNWH/GBAwgzWxuFsbj0/iBdg=
 			</data>
 		</dict>
 		<key>Resources/SelectedColorIndicator.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			C+BCUqWiEfdUQoVeltiZgwihiN0=
+			B5r+wjlyAuNiZy5wF2KqsNWWV6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			bvapMYgDOjpQBTMmkE4j0B9mHhNagsVqI8e+VZgiw+w=
+			luBNIjXhzjoqE5SZ1byrVPlR2JDQm1WUfQlOi9P1GXA=
 			</data>
 		</dict>
 		<key>Resources/SelectionIndicator.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2C0moUh4Maw9N17c8PRgRCxzMs8=
+			LDSYw2bEW0PmGiyvLcq3fSSllOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			0EeCexJaEW/8c28UP1bQD3q8eSdNd7WZzm2Gkr6ozoE=
+			8DtMXHHcNRUW5yuTLqYgyG68LzLTc5/GfzPcftZqLBE=
 			</data>
 		</dict>
 		<key>Resources/SwatchCheckerboard.tiff</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GIDCnyZtAoWz0vK6Gi1ilMCGAWM=
+			sNbbHq4KQCYjpYtCytXlbhLh4MQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			sMgvZO8u0YSHeOVjAaEfZ+xk/uEzLtis8PsJULdlMmg=
+			aMbxryRTZxbd1pUQwUvpSAxVX4+UlP6gLZcKF7z7OWs=
 			</data>
 		</dict>
 		<key>Resources/colors.txt</key>
