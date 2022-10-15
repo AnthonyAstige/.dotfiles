@@ -297,7 +297,7 @@ call vundle#begin()
     Bundle 'unblevable/quick-scope'
     Bundle 'vim-scripts/matchit.zip'
     Bundle 'vim-scripts/ReplaceWithRegister'
-    Bundle 'w0rp/ale'
+    Bundle 'dense-analysis/ale'
     Bundle 'wesq3/vim-windowswap'
     Bundle 'yuttie/comfortable-motion.vim'
     Bundle 'zirrostig/vim-schlepp'
@@ -483,7 +483,7 @@ func StuffIffNoErrors()
 		endif
     endif
 endfunc
-autocmd BufWritePost *.jsx,*.json call StuffIffNoErrors()
+autocmd BufWritePost *.ts,*.tsx,*.jsx,*.json call StuffIffNoErrors()
 " Fix GitGutter after formatting cleanup
 autocmd User ALEFixPost exe ":GitGutter"
 " Use (faster) daemon processes
