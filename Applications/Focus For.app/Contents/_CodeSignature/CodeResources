@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		rl409zXMpEtIVtGViqFir2X4G40=
+		4HFcfjGYuvrVvHWqeyWLNeKePgQ=
 		</data>
 		<key>Resources/ar.lproj/InfoPlist.strings</key>
 		<dict>
@@ -381,11 +381,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rl409zXMpEtIVtGViqFir2X4G40=
+			4HFcfjGYuvrVvHWqeyWLNeKePgQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			UXFywZ4XQ+P+nXtvmQrr7FcdnwpBj/c69iwNIbAjvHI=
+			qnkT9Yt54m3QBn7G48wOS6clfyw6NhvLD408tC7/kH0=
 			</data>
 		</dict>
 		<key>Resources/ar.lproj/InfoPlist.strings</key>
@@ -899,10 +899,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			9KJnVpf36JqqHeQjsFcbF6J2+w4=
+			WaSlx6CKbWD7yGtVTReFaqCQWFI=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"e68432bd06d8524486d8fbaaca83b4116d8b3717" or cdhash H"f4a2675697f7e89aaa1de423b0571b17a276fb0e"</string>
+			<string>cdhash H"f8f156c6321ef138531288d0c961ed354866687c" or cdhash H"59a4a5c7a08a6d60fbc86b554d17856aa0905852"</string>
 		</dict>
 	</dict>
 	<key>rules</key>

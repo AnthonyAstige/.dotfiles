@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		XnaFVDqGyaQLkge6TjhukctZbls=
+		g5kj0xDleBfzN4cgbce1JVosITY=
 		</data>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
 		<dict>
@@ -26,10 +26,6 @@
 	<dict>
 		<key>Resources/CoreParse-template.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
@@ -37,21 +33,13 @@
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XnaFVDqGyaQLkge6TjhukctZbls=
-			</data>
 			<key>hash2</key>
 			<data>
-			YNOtHHKxC86LcrfOAxFq7fjEKrFChfwoHCB92EPPLuE=
+			lbekSqKAcga8a/NXW4Sw4wiBr4wVA8v5KQtIQgJIxig=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/InfoPlist.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MiLKDDnrUKr4EmuvhS5VQwxHGK8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Oc8u4Ht7Mz58F50L9NeYpbcq9qTlhPUeZCcDu/pPyCg=

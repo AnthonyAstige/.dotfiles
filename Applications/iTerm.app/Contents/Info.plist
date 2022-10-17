@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19F101</string>
+	<string>21F79</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleDocumentTypes</key>
@@ -101,7 +101,7 @@
 	<key>CFBundleExecutable</key>
 	<string>iTerm2</string>
 	<key>CFBundleGetInfoString</key>
-	<string>3.3.12</string>
+	<string>3.4.16</string>
 	<key>CFBundleHelpBookFolder</key>
 	<string>iTerm2 Help</string>
 	<key>CFBundleHelpBookName</key>
@@ -119,7 +119,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>3.3.12</string>
+	<string>3.4.16</string>
 	<key>CFBundleSignature</key>
 	<string>ITRM</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -226,25 +226,27 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>3.3.12</string>
+	<string>3.4.16</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
-	<string>11C504</string>
+	<string>13E113</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
 	<key>DTPlatformVersion</key>
-	<string>GM</string>
+	<string>12.3</string>
 	<key>DTSDKBuild</key>
-	<string>19B90</string>
+	<string>21E226</string>
 	<key>DTSDKName</key>
-	<string>macosx10.15</string>
+	<string>macosx12.3</string>
 	<key>DTXcode</key>
-	<string>1130</string>
+	<string>1330</string>
 	<key>DTXcodeBuild</key>
-	<string>11C504</string>
+	<string>13E113</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.utilities</string>
 	<key>LSMinimumSystemVersion</key>
-	<string>10.12</string>
+	<string>10.14</string>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSExceptionDomains</key>
@@ -337,13 +339,11 @@
 	<key>OSAScriptingDefinition</key>
 	<string>iTerm2.sdef</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final_new.xml</string>
+	<string>https://iterm2.com/appcasts/final_modern.xml</string>
 	<key>SUFeedURLForFinal</key>
-	<string>https://iterm2.com/appcasts/final_new.xml</string>
+	<string>https://iterm2.com/appcasts/final_modern.xml</string>
 	<key>SUFeedURLForTesting</key>
-	<string>https://iterm2.com/appcasts/testing_new.xml</string>
-	<key>SUPublicDSAKeyFile</key>
-	<string>dsa_pub.pem</string>
+	<string>https://iterm2.com/appcasts/testing_modern.xml</string>
 	<key>SUPublicEDKey</key>
 	<string>xdqAa0KXBPhMbUrutVTe87i6U7yWf7WKaCeRG7AAZ0w=</string>
 </dict>
