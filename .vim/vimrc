@@ -164,6 +164,9 @@ endif
 """""""""""""""""
 " Misc Bindings "
 """""""""""""""""
+"https://vim.fandom.com/wiki/Set_working_directory_to_the_current_file
+nnoremap <leader>cd :cd %:p:h<CR>:pwd<CR>
+
 " Tabs not tags
 nnoremap <silent> <c-t> <nop>
 nnoremap <silent> <c-t><c-t> :tabnew<cr>
@@ -398,6 +401,7 @@ command! -bang -nargs=* FZFGrep
     \ 1,
     \ <bang>0)
 command! -bar -bang -nargs=* -complete=buffer FZFBufferLines  call fzf#vim#lines(<q-args>, <bang>0)
+nnoremap <silent> <c-p><c-r> :Rg<cr>
 nnoremap <silent> <c-p><c-p> :GFiles<cr>
 " Git Files (ignore from .gitignore, get beyond cwd)
 vnoremap <silent> <c-p><c-p> :call FzfGitFilesCurrSelection()<cr>
