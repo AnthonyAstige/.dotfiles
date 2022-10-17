@@ -86,13 +86,23 @@ rm -rf fonts
 
 `vim` >> `:PluginInstall`
 
+### TypeScript Server
+
+`vim` >> `:CocInstall coc-tsserver`
+
 ## [Nodenv](https://github.com/nodenv/nodenv#installation)
 
 ## [Witch Mouse ignore](https://manytricks.com/osticket/kb/faq.php?id=109)
 
-## iTerm2: Solarized Dark
+## iTerm2 Setup
+
+### Solarized Dark
 
 iTerm2 >> Preferences >> Profiles >> Colors >> Color Presets... >> Solarized Dark
+
+### [Open links in vim](https://tosbourn.com/iterm2-open-files-paths-in-vim/)
+iTerm2 >> Preferences >> Profiles >> Advanced >> Under Semantic History select “Run coprocess…” and enter `echo vim \1`
+
 
 ## [RIPGrep](https://github.com/BurntSushi/ripgrep#installation)
 
