@@ -6,27 +6,31 @@
 	<dict>
 		<key>Resources/EmptyStar.tiff</key>
 		<data>
-		XBDe2Zh1/zc0E/wdBuRPKg79mzo=
+		jgGDpe96jNYjKjRG1pU0JnzpvH0=
 		</data>
 		<key>Resources/FilledStar.tiff</key>
 		<data>
-		5MX66cl3T09bI9hIstGpXTiJ+yU=
+		8cHmM7dyOKU4x+zb2zUzaEgLt0k=
 		</data>
 		<key>Resources/HorizontalSpacingIcon.tiff</key>
 		<data>
-		o6Cu0VQVXm6NTCvVkrLgWLAGjOE=
+		CPTi9ASSlWVYmXYEel4N92JBQmI=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		iA+RdbkKVqsaGGcKlc+UAMICQPY=
+		QW6F0NpzqnHhHZ8mQledEtlMw1Q=
 		</data>
-		<key>Resources/MainViewController.nib</key>
+		<key>Resources/MainViewController.nib/keyedobjects-101300.nib</key>
 		<data>
-		7NX2XL19YD6p++QmJcHMdd1+h70=
+		cqF8WlFoRCNYTQBMrFn7T7FSzg8=
+		</data>
+		<key>Resources/MainViewController.nib/keyedobjects.nib</key>
+		<data>
+		29CWsKgNHWHjDEB+N7PQEr6LysE=
 		</data>
 		<key>Resources/VerticalSpacingIcon.tiff</key>
 		<data>
-		zlyU1GVBX+tIHJkzWOET3zkcIsA=
+		TKz/GFAyWj6a8yO8c/W3l2cuoiw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,42 +39,49 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PovW27NYQIbjbZmm/+KjRCTwX814wMooO/2soGa9QEI=
+			4Gpxm628CXfDQYggt7TEQSzGXaD7bpR861tqsHa6eVk=
 			</data>
 		</dict>
 		<key>Resources/FilledStar.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pqUZQfNS5MXO02RfrrXndWvUhkUAMLv28yQ1t/v8I6E=
+			qN1d/XEM/hXuxAnPW7sRVvuUiRbFZOHFyGG3JXpmhoU=
 			</data>
 		</dict>
 		<key>Resources/HorizontalSpacingIcon.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mss91NEe3C7nIfbsWdBbbBv8oxtHDy88KFaj/xVkcVg=
+			q1R7SafKycgpcS6gUNS8v2J7KDHTsx+OsJXY1NbjE8M=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7LUzIWF/4cfInnU9m4NG8lYP3jokJKeAVA2dmOphFsk=
+			wxeneW804OISJCVR5P6ASx8IAlEwvjOa9fdot/O0snk=
 			</data>
 		</dict>
-		<key>Resources/MainViewController.nib</key>
+		<key>Resources/MainViewController.nib/keyedobjects-101300.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyYWXsGvWdRK3SB6shg4Ls8SkJ+Ol8mDep5wn0Q+PPg=
+			syx75jrC49U25QFoKFfFTITcpgD8gfkECY/NcYgrPGw=
+			</data>
+		</dict>
+		<key>Resources/MainViewController.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9rLs6H1LWlptaUpWudeWSZ5ooFLUQ9gO5zNBruADOzA=
 			</data>
 		</dict>
 		<key>Resources/VerticalSpacingIcon.tiff</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5CTlr2+kVlkBGjHPvFWOycOXe+3pE6KpkaCM9U9fNO0=
+			5uxp6kcQsgnf+4KozYIS3fqv//3ZUhEBcuPccGA7TyI=
 			</data>
 		</dict>
 	</dict>

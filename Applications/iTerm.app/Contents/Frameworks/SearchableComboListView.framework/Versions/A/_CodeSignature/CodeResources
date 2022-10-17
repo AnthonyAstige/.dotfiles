@@ -6,11 +6,19 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		IETL2M4LM/y+/VDyD7N3D0coP/E=
+		QPlkVsrl7rZS3IZAYYrRQPVWMLE=
 		</data>
-		<key>Resources/SearchableComboView.nib</key>
+		<key>Resources/SearchableComboView.nib/keyedobjects-101300.nib</key>
 		<data>
-		JKFxpVgszl0VrfT1Bh0FDNFr0sA=
+		7k90uzs/PMpLTa9H+0pq1LZrgNY=
+		</data>
+		<key>Resources/SearchableComboView.nib/keyedobjects-110000.nib</key>
+		<data>
+		eMZ/0uDro3Yr5m5jt4Ij29RV2Xs=
+		</data>
+		<key>Resources/SearchableComboView.nib/keyedobjects.nib</key>
+		<data>
+		aNA8NJOj9MPMcFG/sa6rosuWo74=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -19,14 +27,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+qBjPC+8luen69EdEY5DjCegMdqLAJ6gqPpbeR/ReYw=
+			qUxjAUvmdht9CCiD0WcSq7lIyWHhKvD0tvEcKQtNVXA=
 			</data>
 		</dict>
-		<key>Resources/SearchableComboView.nib</key>
+		<key>Resources/SearchableComboView.nib/keyedobjects-101300.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			f4ocPFNVSE7nDFgvz1cj5ZRZCpNPCr4KSPtQLJ3LP/g=
+			AdEkNU1r0cZMedfufBWXoq1N00LRmTU1hkw7f7G9dpI=
+			</data>
+		</dict>
+		<key>Resources/SearchableComboView.nib/keyedobjects-110000.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yvT9xW4b9vA6Tj2tBB83YD0y4KrlucuIE8mB/TcvYAk=
+			</data>
+		</dict>
+		<key>Resources/SearchableComboView.nib/keyedobjects.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qXgRVdjPyJAiZpl3pS4qvLbPweb4vEIsBBKIkdnnd7A=
 			</data>
 		</dict>
 	</dict>
