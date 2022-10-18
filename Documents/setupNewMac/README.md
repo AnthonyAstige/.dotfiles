@@ -70,6 +70,10 @@ rm -rf fonts
 ```
 1. iTerm2 issues: [Configure to a powerline font](https://github.com/powerline/fonts/issues/44)
 
+### [Fix Tern Errror](https://github.com/ternjs/tern_for_vim/issues/88#issuecomment-122641054)
+
+`cd ~/.vim/bundle/tern_for_vim && npm install`
+
 ## [FZF](https://github.com/junegunn/fzf)
 
 `brew install fzf`
