@@ -164,8 +164,6 @@ endif
 """""""""""""""""
 " Misc Bindings "
 """""""""""""""""
-"https://vim.fandom.com/wiki/Set_working_directory_to_the_current_file
-nnoremap <leader>cd :cd %:p:h<CR>:pwd<CR>
 
 " Tabs not tags
 nnoremap <silent> <c-t> <nop>
@@ -195,13 +193,19 @@ autocmd Filetype typescript,javascript.jsx,javascript nnoremap <leader>W Oconsol
 nmap <silent> gd <Plug>(coc-definition)
 " \ as Join line as J is taken by move line down
 nnoremap \ <s-J>
+"
 " <c-s> to save
 " * https://stackoverflow.com/q/3446320/4747661
 " * http://vim.wikia.com/wiki/Map_Ctrl-S_to_save_current_or_new_files
 " * + Jump to next ALE linting error. May jump to things that will be auto-fixed in a second.
-noremap <silent> <c-s>          :ALENextWrap<cr>:update<cr>
-vnoremap <silent> <c-s>         <c-c>:update<cr>gv
-inoremap <silent> <c-s>         <c-o>:ALENextWrap<cr><c-o>:update<cr>
+" noremap <silent> <c-s>          :ALENextWrap<cr>:update<cr>
+" vnoremap <silent> <c-s>         <c-c>:update<cr>gv
+" inoremap <silent> <c-s>         <c-o>:ALENextWrap<cr><c-o>:update<cr>
+" 2022-11-30: Remade to work with CoC instead of ALE
+noremap <silent> <c-s>          :call CocAction('diagnosticNext')<cr>:update<cr>
+vnoremap <silent> <c-s>         <c-o>:call CocAction('diagnosticNext')<cr>gv
+inoremap <silent> <c-s>         <c-c>:call CocAction('diagnosticNext')<cr><c-o>:update<cr>
+
 " Visual block - <c-q> is normal alt to <c-v> http://vimdoc.sourceforge.net/htmldoc/gui_w32.html#CTRL-Q
 nnoremap <c-q> <c-v>
 " Y act like C and D to end of line
@@ -449,10 +453,12 @@ nnoremap <silent> <leader>ak :ALEPreviousWrap<cr>
 " * Works from local repository prettier / eslint installs and will only apply if it can find them
 " ** NOT SURE THIS IF/HOW THIS APPLIES ANYMORE WITH GLOBALS
 let g:ale_fixers = {}
+let g:ale_fixers['javascript'] = ['prettier', 'eslint']
 let g:ale_fixers['jsx'] = ['prettier', 'eslint']
 " let g:ale_fixers['json'] = ['prettier']
 " This only seems to work with .jsx extension files and not .ts extension (maybe would need tslint)
 let g:ale_fixers['typescript'] = ['prettier', 'eslint']
+let g:ale_fixers['typescriptreact'] = ['prettier', 'eslint']
 " Only run these linters
 let g:ale_linters = {
 \   'jsx': ['flow'],
@@ -756,3 +762,6 @@ autocmd filetype crontab setlocal nobackup nowritebackup
 " let g:python3_host_prog='/usr/bin/python3'
 " same for Python 2
 let g:python_host_prog='/usr/bin/python2'
+
+"https://vim.fandom.com/wiki/Set_working_directory_to_the_current_file
+nnoremap <leader>cd :cd %:p:h<CR>:pwd<CR>
