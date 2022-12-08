@@ -202,9 +202,13 @@ nnoremap \ <s-J>
 " vnoremap <silent> <c-s>         <c-c>:update<cr>gv
 " inoremap <silent> <c-s>         <c-o>:ALENextWrap<cr><c-o>:update<cr>
 " 2022-11-30: Remade to work with CoC instead of ALE
-noremap <silent> <c-s>          :call CocAction('diagnosticNext')<cr>:update<cr>
+noremap <silent> <c-s>          :call CocAction('diagnosticNext')<cr>
 vnoremap <silent> <c-s>         <c-o>:call CocAction('diagnosticNext')<cr>gv
-inoremap <silent> <c-s>         <c-c>:call CocAction('diagnosticNext')<cr><c-o>:update<cr>
+inoremap <silent> <c-s>         <c-c>:call CocAction('diagnosticNext')<cr><c-o>
+" Old versions I think left open a window at bottom when :update was run
+" noremap <silent> <c-s>          :call CocAction('diagnosticNext')<cr>:update<cr>
+" vnoremap <silent> <c-s>         <c-o>:call CocAction('diagnosticNext')<cr>gv
+" inoremap <silent> <c-s>         <c-c>:call CocAction('diagnosticNext')<cr><c-o>:update<cr>
 
 " Visual block - <c-q> is normal alt to <c-v> http://vimdoc.sourceforge.net/htmldoc/gui_w32.html#CTRL-Q
 nnoremap <c-q> <c-v>
