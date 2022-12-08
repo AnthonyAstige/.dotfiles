@@ -197,7 +197,7 @@ nnoremap \ <s-J>
 " <c-s> to save
 " * https://stackoverflow.com/q/3446320/4747661
 " * http://vim.wikia.com/wiki/Map_Ctrl-S_to_save_current_or_new_files
- noremap <silent> <c-s>          :w<cr>:call CocAction('diagnosticNext')<cr>:ALENextWrap<cr>
+ noremap <silent> <c-s>          :w<cr>:call CocAction('diagnosticNext')<cr>:ALENextWrap<cr>:update<cr>:cclose<cr>
 """""""""""""""""""""""""""""""""""""""""""""
 " OLD NOTES PRE 2022-12-08 MIX OF ALE & CoC "
 """""""""""""""""""""""""""""""""""""""""""""
