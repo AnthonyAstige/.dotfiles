@@ -197,14 +197,20 @@ nnoremap \ <s-J>
 " <c-s> to save
 " * https://stackoverflow.com/q/3446320/4747661
 " * http://vim.wikia.com/wiki/Map_Ctrl-S_to_save_current_or_new_files
+ noremap <silent> <c-s>          :w<cr>:call CocAction('diagnosticNext')<cr>:ALENextWrap<cr>
+"""""""""""""""""""""""""""""""""""""""""""""
+" OLD NOTES PRE 2022-12-08 MIX OF ALE & CoC "
+"""""""""""""""""""""""""""""""""""""""""""""
 " * + Jump to next ALE linting error. May jump to things that will be auto-fixed in a second.
 " noremap <silent> <c-s>          :ALENextWrap<cr>:update<cr>
 " vnoremap <silent> <c-s>         <c-c>:update<cr>gv
 " inoremap <silent> <c-s>         <c-o>:ALENextWrap<cr><c-o>:update<cr>
-" 2022-11-30: Remade to work with CoC instead of ALE
-noremap <silent> <c-s>          :call CocAction('diagnosticNext')<cr>
-vnoremap <silent> <c-s>         <c-o>:call CocAction('diagnosticNext')<cr>gv
-inoremap <silent> <c-s>         <c-c>:call CocAction('diagnosticNext')<cr><c-o>
+" 2022-11-30: Remade to work with Coc instead of ALE
+" noremap <silent> <c-s>          :ALENextWrap<cr>:call CocAction('diagnosticNext')<cr>:update<cr>:cclose<cr>
+" noremap <silent> <c-s>          :ALENextWrap<cr>
+" :call CocAction('diagnosticNext')<cr>:update<cr>:cclose<cr>
+"vnoremap <silent> <c-s>         <c-o>:call CocAction('diagnosticNext')<cr>gv
+"inoremap <silent> <c-s>         <c-c>:call CocAction('diagnosticNext')<cr><c-o>
 " Old versions I think left open a window at bottom when :update was run
 " noremap <silent> <c-s>          :call CocAction('diagnosticNext')<cr>:update<cr>
 " vnoremap <silent> <c-s>         <c-o>:call CocAction('diagnosticNext')<cr>gv
@@ -456,6 +462,8 @@ nnoremap <silent> <leader>ak :ALEPreviousWrap<cr>
 " Use prettier then eslint - https://github.com/w0rp/ale/issues/683#issuecomment-310635861
 " * Works from local repository prettier / eslint installs and will only apply if it can find them
 " ** NOT SURE THIS IF/HOW THIS APPLIES ANYMORE WITH GLOBALS
+" Update 2022-12-08 - ESLint Enabled in CoC via
+" https://github.com/neoclide/coc-eslint so no longer need ALE for that
 let g:ale_fixers = {}
 let g:ale_fixers['javascript'] = ['prettier', 'eslint']
 let g:ale_fixers['jsx'] = ['prettier', 'eslint']
@@ -465,9 +473,10 @@ let g:ale_fixers['typescript'] = ['prettier', 'eslint']
 let g:ale_fixers['typescriptreact'] = ['prettier', 'eslint']
 " Only run these linters
 let g:ale_linters = {
-\   'jsx': ['flow'],
-\   'javascript': ['flow'],
+\   'jsx': ['eslint'],
+\   'javascript': ['eslint'],
 \   'typescript': ['eslint'],
+\   'typescriptreact': ['eslint'],
 \}
 let g:ale_linters_explicit = 1
 " Fix on save
@@ -480,23 +489,15 @@ func StuffIffNoErrors()
 	let l:list = ale#engine#GetLoclist(bufnr('%'))
     if(len(l:list) != 1)
 		exe ":ALEFix"
-        " janko-m/vim-test
-        " if test#exists() |
-        " \   TestFile |
-        " \ endif
 	else
 		let l:list = ale#engine#GetLoclist(bufnr('%'))
 		let l:text = list[0].text
 		if(text !~ "Parsing error:.*")
 			exe ":ALEFix"
-            " janko-m/vim-test
-            " if test#exists() |
-            " \   TestFile |
-            " \ endif
 		endif
     endif
 endfunc
-autocmd BufWritePost *.ts,*.tsx,*.jsx,*.json call StuffIffNoErrors()
+autocmd BufWritePost *.js,*.ts,*.tsx,*.jsx,*.json call StuffIffNoErrors()
 " Fix GitGutter after formatting cleanup
 autocmd User ALEFixPost exe ":GitGutter"
 " Use (faster) daemon processes
