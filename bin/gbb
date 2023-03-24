@@ -20,5 +20,5 @@ echo "Backing up $CURRENT_BRANCH to $BACKUP_BRANCH >> pushing & tracking with or
 # TODO: Don't checkout $BACKUP_BRANCH in this script
 git branch $BACKUP_BRANCH && \
     git checkout $BACKUP_BRANCH && \
-    git push origin -u $BACKUP_BRANCH && \
+    git push --no-verify origin -u $BACKUP_BRANCH && \
     git checkout $CURRENT_BRANCH
