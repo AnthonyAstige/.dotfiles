@@ -94,13 +94,6 @@ iTerm2 >> Preferences >> Profiles >> Advanced >> Under Semantic History select â
 
 ## [RIPGrep](https://github.com/BurntSushi/ripgrep#installation)
 
-## [USB Overdrive](http://www.usboverdrive.com/USBOverdrive/Download.html)
-
-    1. Install from file in this folder or download above
-    1. Any Mouse, Any Application
-        1. >> Disable Speed
-        1. >> Disable Accelleration
-
 ## [Rouge](https://github.com/jneen/rouge)
     git clone https://github.com/jneen/rouge ~/.rouge
 
