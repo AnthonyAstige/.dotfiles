@@ -20,21 +20,6 @@ Setup from [A simpler way to manage your dotfiles](https://www.anand-iyer.com/bl
 
 ## [Brew](https://brew.sh/)
 
-### Personal computer
-
-Install in default directory for faster installs (less recompiles)
-
-`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
-
-### Corperate computer
-
-Install under home folder (less conflicts with autoconfigs)
-
-```
-git clone https://github.com/Homebrew/brew ~/homebrew
-brew update
-```
-
 ## [Volta](https://github.com/volta-cli/volta)
 
 ## [NeoVim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
